@@ -1,0 +1,903 @@
+,id,type,title,country,date_added,year,rating,age,imdb,rotten_tomatoes
+0,1,Movie,9,United States,2017-11-16,2009,PG-13,13+,7.1,57%
+1,2,Movie,21,United States,2020-01-01,2008,PG-13,13+,6.8,36%
+2,3,Movie,1922,United States,2017-10-20,2017,TV-MA,18+,6.3,90%
+3,4,Movie,22-Jul,"Norway, Iceland, United States",2018-10-10,2018,R,18+,6.8,80%
+4,5,Movie,13 Cameras,United States,2016-08-13,2015,NR,18+,5.1,77%
+5,6,Movie,13 Sins,United States,2019-01-13,2014,R,18+,6.3,65%
+6,7,Movie,14 Blades,"Hong Kong, China, Singapore",2019-04-03,2010,R,18+,6.3,69%
+7,8,Movie,14 Cameras,United States,2018-10-27,2018,TV-MA,18+,4.5,22%
+8,9,Movie,2 States,India,2018-08-04,2014,TV-PG,7+,6.9,44%
+9,10,Movie,20th Century Women,United States,2019-06-28,2016,R,18+,7.3,88%
+10,11,Movie,24 Hours to Live,"South Africa, China, United States",2018-04-07,2017,R,18+,5.7,52%
+11,12,Movie,3 Idiots,India,2019-08-01,2009,PG-13,13+,8.4,100%
+12,13,Movie,5 Flights Up,United States,2019-03-17,2014,PG-13,13+,6.2,46%
+13,14,Movie,6 Balloons,United States,2018-04-06,2018,TV-MA,18+,5.8,86%
+14,15,Movie,6 Days,"New Zealand, United Kingdom",2018-02-08,2017,R,18+,6.2,63%
+15,16,Movie,6 Underground,United States,2019-12-13,2019,R,18+,6.1,36%
+16,17,Movie,A Bad Moms Christmas,"United States, China",2020-02-14,2017,R,18+,5.6,31%
+17,18,Movie,A Christmas Prince,United States,2017-11-17,2017,TV-PG,7+,5.7,73%
+18,19,Movie,A Christmas Prince: The Royal Wedding,United States,2018-11-30,2018,TV-PG,7+,5.2,70%
+19,20,Movie,A Dangerous Woman,United States,2018-04-01,1993,R,18+,5.8,50%
+20,21,Movie,A Fortunate Man,Denmark,2019-04-20,2018,TV-MA,16+,7.2,80%
+21,22,Movie,A Futile and Stupid Gesture,United States,2018-01-26,2018,TV-MA,18+,6.8,61%
+22,23,Movie,A Ghost Story,United States,2020-01-07,2017,R,18+,6.9,91%
+23,24,Movie,A Glimpse Inside the Mind of Charles Swan III,United States,2018-07-15,2012,R,18+,4.8,16%
+24,25,Movie,A Gray State,United States,2017-12-25,2017,TV-MA,18+,6.2,100%
+25,26,Movie,A Haunted House,United States,2020-02-21,2013,R,18+,5.0,9%
+26,27,Movie,A Most Violent Year,"United Arab Emirates, United States",2018-07-22,2014,R,18+,7.0,89%
+27,28,Movie,A Night at the Roxbury,United States,2019-12-01,1998,PG-13,13+,6.3,11%
+28,29,Movie,A Perfect Man,United States,2019-06-06,2013,R,18+,5.2,20%
+29,30,Movie,A Serious Man,"United States, United Kingdom, France",2018-01-16,2009,R,18+,7.0,90%
+30,31,Movie,A Single Man,United States,2019-11-11,2009,R,18+,7.6,85%
+31,32,Movie,A Tale of Love and Darkness,"Israel, United States",2019-10-25,2015,PG-13,13+,6.0,71%
+32,33,Movie,A Very Murray Christmas,United States,2015-12-04,2015,TV-14,18+,5.5,71%
+33,34,Movie,Aarakshan,India,2019-12-31,2011,TV-14,13+,6.2,57%
+34,35,Movie,About Time,United Kingdom,2019-04-16,2013,R,18+,7.8,68%
+35,36,Movie,Acts of Vengeance,"Bulgaria, United States",2018-01-25,2017,R,18+,5.7,55%
+36,37,Movie,Adventures in Public School,"Canada, United States",2018-08-15,2018,NR,16+,5.8,71%
+37,38,Movie,After,United States,2019-10-09,2019,PG-13,13+,5.4,17%
+38,39,Movie,Aiyaary,India,2018-05-15,2018,TV-MA,16+,5.3,29%
+39,40,Movie,Alex Strangelove,United States,2018-06-08,2018,TV-MA,18+,6.3,86%
+40,41,Movie,Ali Wong: Hard Knock Wife,United States,2018-05-13,2018,TV-MA,18+,7.4,100%
+41,42,Movie,All About Nina,United States,2019-03-18,2018,R,18+,6.0,86%
+42,43,Movie,All Day and a Night,United States,2020-05-01,2020,R,18+,5.9,53%
+43,44,Movie,All the Devil's Men,United Kingdom,2019-05-15,2018,R,18+,5.1,23%
+44,45,Movie,Alone in Berlin,"United Kingdom, France, Germany",2019-02-15,2016,R,18+,6.5,57%
+45,46,Movie,Amanda Knox,"Denmark, United States",2016-09-30,2016,TV-MA,18+,6.9,87%
+46,47,Movie,American Anarchist,United States,2017-06-23,2016,TV-MA,18+,5.8,67%
+47,48,Movie,American Assassin,United States,2020-01-31,2017,R,18+,6.2,35%
+48,49,Movie,American Circumcision,United States,2018-12-16,2017,TV-14,16+,7.3,60%
+49,50,Movie,American Factory,United States,2019-08-21,2019,TV-14,16+,7.4,97%
+50,51,Movie,American Honey,"United Kingdom, United States",2019-04-27,2016,R,18+,7.0,79%
+51,52,Movie,Amy,United Kingdom,2018-07-26,2015,R,18+,7.8,95%
+52,53,Movie,And Breathe Normally,"Iceland, Sweden, Belgium",2019-01-04,2018,TV-14,16+,6.8,92%
+53,54,Movie,Angel Has Fallen,United States,2020-04-04,2019,R,18+,6.4,39%
+54,55,Movie,Anon,"United Kingdom, Canada, United States, Germany",2018-05-04,2018,TV-MA,18+,6.1,39%
+55,56,Movie,Ant-Man and the Wasp,United States,2019-01-29,2018,PG-13,13+,7.1,88%
+56,57,Movie,Anthony Jeselnik: Fire in the Maternity Ward,United States,2019-04-30,2019,TV-MA,18+,7.0,80%
+57,58,Movie,Apollo 18,"United States, Canada",2019-03-09,2011,PG-13,13+,5.2,23%
+58,59,Movie,April and the Extraordinary World,"France, Canada, Belgium",2017-10-01,2015,PG,7+,7.3,96%
+59,60,Movie,Arctic Dogs,"India, United Kingdom, China, Canada, Japan, South Korea, United States",2020-05-04,2019,PG,7+,4.5,13%
+60,61,Movie,ARQ,"Canada, United States",2016-09-16,2016,TV-MA,18+,6.4,43%
+61,62,Movie,Arthur Christmas,"United Kingdom, United States",2020-01-01,2011,PG,7+,7.1,92%
+62,63,Movie,"As Above, So Below",United States,2018-09-16,2014,R,18+,6.2,26%
+63,64,Movie,As Good as It Gets,United States,2020-01-01,1997,PG-13,13+,7.7,85%
+64,65,Movie,At First Light,Canada,2018-12-27,2018,TV-14,13+,5.5,54%
+65,66,Movie,Atlantics,"France, Senegal, Belgium",2019-11-29,2019,TV-14,16+,6.7,95%
+66,67,Movie,Austin Powers in Goldmember,United States,2019-12-01,2002,PG-13,13+,6.2,54%
+67,68,Movie,Austin Powers: International Man of Mystery,United States,2019-12-01,1997,PG-13,13+,7.0,71%
+68,69,Movie,Austin Powers: The Spy Who Shagged Me,United States,2019-12-01,1999,PG-13,13+,6.6,52%
+69,70,Movie,Automata,"Bulgaria, United States, Spain, Canada",2017-09-08,2014,R,18+,6.1,30%
+70,71,Movie,Avengers: Infinity War,United States,2018-12-25,2018,PG-13,13+,8.5,84%
+71,72,Movie,Await Further Instructions,United Kingdom,2019-02-02,2018,TV-MA,18+,4.8,80%
+72,73,Movie,Azhar,India,2019-04-12,2016,TV-14,13+,5.8,22%
+73,74,Movie,Baaghi,India,2018-08-04,2016,TV-14,7+,5.2,30%
+74,75,Movie,Babel,"France, United States, Mexico",2019-01-01,2006,R,18+,7.4,69%
+75,76,Movie,Backtrack,"Australia, United Kingdom, United Arab Emirates, Canada",2018-12-25,2015,R,18+,5.9,30%
+76,77,Movie,Bad Boys,United States,2019-10-01,1995,R,18+,6.9,43%
+77,78,Movie,Bad Boys II,United States,2019-10-01,2003,R,18+,6.6,23%
+78,79,Movie,Bad Genius,Thailand,2018-06-01,2017,TV-MA,13+,7.6,100%
+79,80,Movie,Badla,India,2019-08-07,2019,TV-14,7+,7.9,57%
+80,81,Movie,Badland,United States,2020-03-26,2019,TV-14,16+,5.7,50%
+81,82,Movie,Barbecue,"Australia, Armenia, Japan, Jordan, Mexico, Mongolia, New Zealand, Philippines, South Africa, Sweden, United States, Uruguay",2017-08-15,2017,TV-MA,7+,6.4,86%
+82,83,Movie,Barely Lethal,United States,2018-07-26,2015,PG-13,13+,5.4,26%
+83,84,Movie,Barfi!,India,2018-11-01,2012,TV-14,all,8.1,86%
+84,85,Movie,Bathtubs Over Broadway,United States,2019-05-09,2018,PG-13,13+,7.5,100%
+85,86,Movie,Bee Movie,"United States, Australia",2017-01-01,2007,PG,7+,6.1,50%
+86,87,Movie,Before I Wake,United States,2018-01-05,2016,PG-13,13+,6.2,61%
+87,88,Movie,Behind the Curve,United States,2019-02-15,2018,TV-14,16+,6.5,89%
+88,89,Movie,Being AP,United Kingdom,2016-08-15,2015,TV-14,13+,6.5,100%
+89,90,Movie,Being Elmo: A Puppeteer's Journey,United States,2012-02-21,2011,PG,7+,7.6,95%
+90,91,Movie,Benji,"United Arab Emirates, United States",2018-03-16,2018,TV-PG,7+,6.3,60%
+91,92,Movie,Bennett's War,United States,2020-05-02,2019,PG-13,13+,5.5,50%
+92,93,Movie,Berlin Syndrome,Australia,2017-08-25,2017,R,18+,6.3,75%
+93,94,Movie,"Berlin, I Love You",Germany,2019-06-08,2019,R,18+,4.6,11%
+94,95,Movie,Bethany Hamilton: Unstoppable,United States,2020-03-25,2019,PG,7+,7.3,71%
+95,96,Movie,Between Two Ferns: The Movie,United States,2019-09-20,2019,TV-MA,18+,6.1,77%
+96,97,Movie,Between Worlds,Spain,2019-04-06,2018,R,18+,4.4,29%
+97,98,Movie,Beyond Skyline,"United States, Canada, Indonesia, United Kingdom, China, Singapore",2018-04-15,2017,R,18+,5.3,63%
+98,99,Movie,Big Kill,United States,2019-06-18,2018,R,18+,5.3,22%
+99,100,Movie,Big Miracle,"United States, United Kingdom",2018-09-30,2012,PG,7+,6.5,75%
+100,101,Movie,"Bikram: Yogi, Guru, Predator",United States,2019-11-20,2019,TV-MA,18+,6.7,96%
+101,102,Movie,Bill Burr: I'm Sorry You Feel That Way,United States,2014-12-05,2014,TV-MA,18+,8.4,100%
+102,103,Movie,Bill Burr: Paper Tiger,"United States, United Kingdom",2019-09-10,2019,TV-MA,18+,8.2,86%
+103,104,Movie,Billu,India,2018-04-01,2009,TV-PG,7+,6.2,60%
+104,105,Movie,Bird Box,United States,2018-12-21,2018,R,18+,6.6,63%
+105,106,Movie,Black Rose,"Russia, United States",2017-07-02,2014,TV-MA,18+,2.5,22%
+106,107,Movie,Blackfish,United States,2020-05-01,2013,PG-13,13+,8.1,98%
+107,108,Movie,Bleed for This,United States,2020-04-11,2016,R,18+,6.8,69%
+108,109,Movie,Blood Father,France,2020-03-26,2016,R,18+,6.4,89%
+109,110,Movie,Blow,United States,2019-10-01,2001,R,18+,7.6,55%
+110,111,Movie,Blue Is the Warmest Color,"France, Belgium, Spain",2016-08-26,2013,NC-17,18+,7.7,89%
+111,112,Movie,Blue Ruin,"United States, France",2019-02-25,2013,R,18+,7.1,96%
+112,113,Movie,Blue Valentine,United States,2018-07-05,2010,R,18+,7.4,87%
+113,114,Movie,Bokeh,"United States, Iceland",2017-06-22,2017,TV-14,18+,5.0,45%
+114,115,Movie,Bolt,United States,2018-07-22,2008,PG,7+,6.8,89%
+115,116,Movie,Bright,United States,2017-12-22,2017,TV-MA,18+,6.3,28%
+116,117,Movie,Brooklyn's Finest,United States,2018-10-01,2009,R,18+,6.7,44%
+117,118,Movie,Buffalo Boys,"Indonesia, Singapore",2019-04-12,2018,TV-MA,18+,5.8,79%
+118,119,Movie,Bullet Head,"Bulgaria, United States",2018-03-07,2017,R,18+,5.4,59%
+119,120,Movie,Burlesque,United States,2019-12-16,2010,PG-13,13+,6.4,36%
+120,121,Movie,Burning,"South Korea, Japan",2019-04-29,2018,TV-MA,18+,7.5,95%
+121,122,Movie,Burning Sands,United States,2017-03-10,2017,TV-MA,18+,6.1,86%
+122,123,Movie,Bushwick,United States,2017-11-24,2017,TV-MA,18+,5.2,47%
+123,124,Movie,By the Sea,"France, Malta, United States",2020-02-16,2015,R,18+,5.3,34%
+124,125,Movie,Calibre,United Kingdom,2018-06-29,2018,TV-MA,18+,6.7,93%
+125,126,Movie,Cam,United States,2018-11-16,2018,TV-MA,18+,5.9,93%
+126,127,Movie,Can't Hardly Wait,United States,2021-01-01,1998,PG-13,13+,6.5,42%
+127,128,Movie,Candy Jar,United States,2018-04-27,2018,TV-14,13+,5.8,71%
+128,129,Movie,Candyman,"United States, United Kingdom",2019-10-01,1992,R,18+,6.6,74%
+129,130,Movie,Carriers,United States,2019-11-20,2009,PG-13,13+,6.0,68%
+130,131,Movie,Casting JonBenet,"United States, Australia, China",2017-04-28,2017,TV-14,16+,6.1,82%
+131,132,Movie,Cats & Dogs: The Revenge of Kitty Galore,"United States, Australia",2019-02-01,2010,PG,7+,4.3,13%
+132,133,Movie,Center Stage,United States,2020-01-01,2000,PG-13,13+,6.7,42%
+133,134,Movie,Change in the Air,United States,2020-03-01,2018,PG,7+,5.4,11%
+134,135,Movie,Charlie and the Chocolate Factory,"United Kingdom, United States",2020-01-01,2005,PG,7+,6.6,82%
+135,136,Movie,Chasing Amy,United States,2020-01-01,1997,R,18+,7.2,87%
+136,137,Movie,Chennai Express,India,2018-08-31,2013,TV-14,13+,6.0,47%
+137,138,Movie,Chernobyl Diaries,United States,2018-08-01,2012,R,18+,5.0,19%
+138,139,Movie,Chicken Little,United States,2016-03-16,2005,G,all,5.7,37%
+139,140,Movie,Child's Play,United States,2019-12-31,1988,R,18+,6.6,71%
+140,141,Movie,Chitty Chitty Bang Bang,"United Kingdom, United States",2020-01-01,1968,G,all,6.9,67%
+141,142,Movie,Chloe,"United States, Canada, France",2020-01-01,2009,R,18+,6.3,51%
+142,143,Movie,Chris Rock: Tamborine,United States,2018-02-14,2018,TV-MA,18+,6.5,100%
+143,144,Movie,Christopher Robin,United States,2019-03-05,2018,PG,7+,7.3,73%
+144,145,Movie,Chronicle of an Escape,Argentina,2018-06-15,2006,R,18+,7.2,67%
+145,146,Movie,Cirque du Freak: The Vampire's Assistant,United States,2018-04-16,2009,PG-13,13+,5.8,38%
+146,147,Movie,Click,United States,2020-01-01,2006,PG-13,13+,6.4,33%
+147,148,Movie,Clive Davis: The Soundtrack of Our Lives,United States,2019-09-17,2017,TV-MA,13+,7.4,80%
+148,149,Movie,Close,"United Kingdom, United States",2019-01-18,2019,TV-MA,18+,5.7,37%
+149,150,Movie,Close Enemies,"France, Belgium",2020-01-29,2018,TV-MA,18+,6.3,58%
+150,151,Movie,Closed Circuit,"United Kingdom, United States",2017-10-16,2013,R,18+,6.2,43%
+151,152,Movie,Cloverfield,United States,2020-01-01,2008,PG-13,13+,7.0,77%
+152,153,Movie,Coffee with D,India,2017-11-01,2017,TV-PG,13+,4.4,17%
+153,154,Movie,Come and Find Me,"Canada, United States, United Kingdom",2019-09-18,2016,R,18+,5.7,62%
+154,155,Movie,Come Sunday,United States,2018-04-13,2018,TV-14,16+,5.9,63%
+155,156,Movie,Concussion,United States,2018-08-02,2013,R,18+,5.6,75%
+156,157,Movie,Conor McGregor: Notorious,Ireland,2018-03-21,2017,R,18+,7.2,50%
+157,158,Movie,Cop Car,United States,2019-06-16,2015,R,18+,6.3,80%
+158,159,Movie,Creep,United States,2015-07-14,2014,R,18+,6.3,89%
+159,160,Movie,Crip Camp: A Disability Revolution,United States,2020-03-25,2020,R,18+,7.8,100%
+160,161,Movie,"Crouching Tiger, Hidden Dragon: Sword of Destiny","China, United States",2016-02-26,2016,PG-13,13+,6.1,20%
+161,162,Movie,Cult of Chucky,United States,2017-10-03,2017,R,18+,5.2,78%
+162,163,Movie,Cut Bank,United States,2019-12-01,2014,R,18+,6.0,37%
+163,164,Movie,Cutie and the Boxer,United States,2018-06-14,2013,R,18+,7.2,95%
+164,165,Movie,Dallas Buyers Club,United States,2018-01-16,2013,R,18+,8.0,93%
+165,166,Movie,Dangal,India,2017-06-21,2016,TV-PG,7+,8.4,88%
+166,167,Movie,Dark Places,"United States, United Kingdom, France",2018-07-26,2015,R,18+,6.2,23%
+167,168,Movie,Dave Chappelle: Sticks & Stones,United States,2019-08-26,2019,TV-MA,18+,8.5,35%
+168,169,Movie,Dean,United States,2020-03-15,2016,PG-13,13+,6.2,62%
+169,170,Movie,Dear Ex,Taiwan,2019-02-01,2018,TV-MA,18+,7.4,89%
+170,171,Movie,Dear Zindagi,India,2017-04-25,2016,TV-14,13+,7.6,69%
+171,172,Movie,Deep,"Spain, Belgium, Switzerland, United States, China, United Kingdom",2017-11-23,2017,PG,7+,4.1,33%
+172,173,Movie,Deidra & Laney Rob a Train,United States,2017-03-17,2017,TV-14,16+,6.1,91%
+173,174,Movie,Demonic,United States,2017-08-10,2015,R,18+,5.3,33%
+174,175,Movie,Den of Thieves,United States,2020-05-01,2018,R,18+,7.0,41%
+175,176,Movie,Die Another Day,"United Kingdom, United States",2019-12-31,2002,PG-13,13+,6.1,57%
+176,177,Movie,Dil Dhadakne Do,India,2019-12-15,2015,TV-MA,13+,6.8,64%
+177,178,Movie,Dilwale,India,2017-02-01,2015,TV-PG,7+,5.2,21%
+178,179,Movie,Dinner for Schmucks,United States,2020-01-01,2010,PG-13,13+,5.9,41%
+179,180,Movie,District 9,"South Africa, United States, New Zealand, Canada",2019-11-04,2009,R,18+,7.9,90%
+180,181,Movie,Django Unchained,United States,2020-04-25,2012,R,18+,8.4,87%
+181,182,Movie,Dolemite Is My Name,United States,2019-10-25,2019,R,18+,7.3,97%
+182,183,Movie,Dolphin Tale 2,United States,2019-02-25,2014,PG,7+,6.4,65%
+183,184,Movie,Don Verdean,United States,2020-03-01,2015,PG-13,13+,5.4,29%
+184,185,Movie,Don't Be Afraid of the Dark,"United States, Australia, Mexico",2019-11-02,2010,R,18+,5.6,60%
+185,186,Movie,Doom: Annihilation,United States,2019-12-25,2019,R,18+,3.6,50%
+186,187,Movie,Dukhtar,"Pakistan, Norway, United States",2016-09-01,2014,TV-14,7+,7.0,93%
+187,188,Movie,Earth to Echo,United States,2019-10-01,2014,PG,7+,5.8,51%
+188,189,Movie,Earthquake Bird,"United Kingdom, Japan, United States",2019-11-15,2019,R,18+,5.9,57%
+189,190,Movie,Echo in the Canyon,United States,2019-10-24,2019,PG-13,13+,7.0,92%
+190,191,Movie,Eddie Murphy: Delirious,United States,2018-04-15,1983,TV-MA,18+,8.2,83%
+191,192,Movie,Ek Main Aur Ekk Tu,India,2018-10-01,2012,TV-14,7+,5.8,63%
+192,193,Movie,El Camino Christmas,United States,2017-12-08,2017,TV-MA,18+,5.7,40%
+193,194,Movie,El Camino: A Breaking Bad Movie,United States,2019-10-11,2019,TV-MA,18+,7.4,91%
+194,195,Movie,Eli,United States,2019-10-18,2019,TV-MA,18+,5.7,48%
+195,196,Movie,Elisa & Marcela,Spain,2019-06-07,2019,TV-MA,18+,6.5,33%
+196,197,Movie,End of Watch,United States,2019-11-23,2012,R,18+,7.6,85%
+197,198,Movie,Enemy,"Canada, Spain, France",2018-07-15,2013,R,18+,6.9,71%
+198,199,Movie,Equals,"United States, Indonesia",2018-10-28,2015,PG-13,13+,6.1,35%
+199,200,Movie,Equilibrium,United States,2019-06-08,2002,R,18+,7.4,40%
+200,201,Movie,Event Horizon,"United Kingdom, United States",2020-01-01,1997,R,18+,6.7,27%
+201,202,Movie,Evolution,United States,2019-11-20,2001,PG-13,13+,6.1,43%
+202,203,Movie,Ex Machina,United Kingdom,2018-07-26,2015,R,18+,7.7,92%
+203,204,Movie,Extraction,United States,2020-04-24,2020,R,18+,6.8,68%
+204,205,Movie,"Extremely Wicked, Shockingly Evil and Vile",United States,2019-05-03,2019,R,18+,6.6,55%
+205,206,Movie,"Faith, Hope & Love",United States,2020-02-04,2019,PG,7+,6.1,80%
+206,207,Movie,Falling Inn Love,United States,2019-08-29,2019,TV-PG,7+,5.6,61%
+207,208,Movie,Ferris Bueller's Day Off,United States,2020-01-03,1986,PG-13,13+,7.8,80%
+208,209,Movie,Final Destination,United States,2020-01-01,2000,R,18+,6.7,35%
+209,210,Movie,Final Destination 2,"United States, Canada",2020-01-01,2003,R,18+,6.2,48%
+210,211,Movie,Final Destination 3,"United States, Germany",2020-01-01,2006,R,18+,5.8,43%
+211,212,Movie,Fire in Paradise,United States,2019-11-01,2019,TV-MA,18+,7.4,80%
+212,213,Movie,First Kill,"United Kingdom, Canada, United States",2019-09-01,2017,R,18+,5.0,12%
+213,214,Movie,First Match,United States,2018-03-30,2018,TV-MA,18+,6.3,82%
+214,215,Movie,First They Killed My Father,"Cambodia, United States",2017-09-15,2017,TV-MA,18+,7.2,89%
+215,216,Movie,For Colored Girls,United States,2020-05-01,2010,R,18+,6.1,32%
+216,217,Movie,Force 2,India,2017-02-27,2016,TV-14,7+,6.2,55%
+217,218,Movie,Forks Over Knives,United States,2019-10-03,2011,PG,7+,7.7,59%
+218,219,Movie,Fractured,United States,2019-10-11,2019,TV-MA,18+,6.4,62%
+219,220,Movie,Friend Request,Germany,2018-04-18,2016,R,18+,5.3,16%
+220,221,Movie,From Paris with Love,"France, United Kingdom, United States",2020-09-08,2010,R,18+,6.5,38%
+221,222,Movie,Fun Mom Dinner,United States,2017-12-31,2017,R,18+,5.2,33%
+222,223,Movie,Furie,Vietnam,2019-09-25,2019,TV-MA,18+,5.8,95%
+223,224,Movie,Gaga: Five Foot Two,United States,2017-09-22,2017,TV-MA,18+,7.0,74%
+224,225,Movie,"Game Over, Man!",United States,2018-03-23,2018,TV-MA,18+,5.4,9%
+225,226,Movie,Gemini,India,2018-07-01,2018,TV-PG,18+,5.4,71%
+226,227,Movie,Gerald's Game,United States,2017-09-29,2017,TV-MA,18+,6.6,90%
+227,228,Movie,Get Him to the Greek,United States,2020-01-16,2010,R,18+,6.4,72%
+228,229,Movie,Get Me Roger Stone,United States,2017-05-12,2017,TV-MA,16+,7.4,88%
+229,230,Movie,Get Santa,"United Kingdom, United States",2014-12-12,2014,PG,7+,6.2,79%
+230,231,Movie,Ghost Rider,"United States, Australia",2020-10-01,2007,PG-13,13+,5.2,26%
+231,232,Movie,Ginger & Rosa,"United Kingdom, Denmark, Canada, Croatia",2018-07-15,2012,PG-13,13+,6.3,78%
+232,233,Movie,Girl,"Netherlands, Belgium",2019-03-15,2018,R,18+,7.2,84%
+233,234,Movie,Girl on the Third Floor,United States,2020-02-22,2019,TV-MA,18+,4.6,81%
+234,235,Movie,Girlfriend's Day,United States,2017-02-14,2017,TV-MA,18+,5.2,43%
+235,236,Movie,God Bless the Broken Road,United States,2019-02-09,2018,PG,7+,5.5,17%
+236,237,Movie,God's Not Dead,United States,2020-04-01,2014,PG,7+,4.7,13%
+237,238,Movie,God's Not Dead: A Light in Darkness,United States,2018-12-04,2018,PG,7+,4.5,11%
+238,239,Movie,GoldenEye,"United Kingdom, United States",2019-12-31,1995,PG-13,13+,7.2,78%
+239,240,Movie,Goldstone,Australia,2018-12-10,2016,R,18+,6.5,76%
+240,241,Movie,Good People,"United States, United Kingdom, Denmark, Sweden",2017-09-08,2014,R,18+,5.5,9%
+241,242,Movie,Good Time,United States,2020-02-11,2017,R,18+,7.4,92%
+242,243,Movie,Goosebumps 2: Haunted Halloween,"United States, United Kingdom",2019-04-25,2018,PG,7+,5.6,48%
+243,244,Movie,Green Room,United States,2018-11-12,2015,R,18+,7.0,91%
+244,245,Movie,Guru,India,2018-03-01,2007,TV-PG,13+,7.7,83%
+245,246,Movie,Guzaarish,India,2018-08-02,2010,TV-14,7+,7.4,67%
+246,247,Movie,Haider,India,2018-08-02,2014,TV-MA,13+,8.1,86%
+247,248,Movie,"Hail, Caesar!","United States, United Kingdom, Japan",2020-04-16,2016,PG-13,13+,6.3,85%
+248,249,Movie,Half Girlfriend,India,2020-01-02,2017,TV-14,7+,4.3,25%
+249,250,Movie,Hamburger Hill,United States,2019-11-23,1987,R,18+,6.7,100%
+250,251,Movie,Hangman,United States,2020-05-06,2017,R,18+,5.2,5%
+251,252,Movie,Hannibal Buress: Comedy Camisado,United States,2016-02-05,2016,TV-MA,18+,6.6,100%
+252,253,Movie,Happy New Year,India,2017-02-01,2014,TV-14,all,5.0,47%
+253,254,Movie,Hasee Toh Phasee,India,2020-04-01,2014,TV-14,13+,6.8,80%
+254,255,Movie,Haywire,"Ireland, United States",2020-03-01,2011,R,18+,5.8,80%
+255,256,Movie,He Named Me Malala,"United States, United Arab Emirates",2018-06-01,2015,PG-13,13+,6.9,72%
+256,257,Movie,He Never Died,Canada,2016-03-18,2015,R,18+,6.4,87%
+257,258,Movie,He's Out There,United States,2019-01-12,2018,R,18+,5.2,43%
+258,259,Movie,Heartbreakers,United States,2019-12-31,2001,PG-13,13+,6.2,53%
+259,260,Movie,Hell or High Water,United States,2019-01-01,2016,R,18+,7.6,97%
+260,261,Movie,Heneral Luna,Philippines,2018-10-31,2015,R,18+,7.6,71%
+261,262,Movie,Her,United States,2018-07-29,2013,R,18+,8.0,95%
+262,263,Movie,Hey Arnold! The Jungle Movie,"United States, South Korea, Japan",2019-11-02,2017,TV-PG,7+,7.6,100%
+263,264,Movie,Highway,India,2018-08-02,2014,TV-14,13+,7.7,88%
+264,265,Movie,Hit & Run,United States,2019-11-08,2012,R,18+,6.1,48%
+265,266,Movie,Hitch,United States,2020-01-01,2005,PG-13,13+,6.6,68%
+266,267,Movie,Holiday in the Wild,United States,2019-11-01,2019,TV-PG,7+,6.1,43%
+267,268,Movie,Hop,United States,2020-01-16,2011,PG,7+,5.4,25%
+268,269,Movie,Hope Springs Eternal,United States,2018-11-08,2018,PG,7+,4.7,88%
+269,270,Movie,Horns,"United States, Canada",2019-08-01,2013,R,18+,6.5,41%
+270,271,Movie,Horse Girl,United States,2020-02-07,2020,R,18+,5.9,72%
+271,272,Movie,Hostiles,United States,2018-08-15,2017,R,18+,7.2,72%
+272,273,Movie,Hot Rod,United States,2019-11-20,2007,PG-13,13+,6.7,39%
+273,274,Movie,Hotel Transylvania 3: Summer Vacation,United States,2019-01-24,2018,PG,7+,6.3,62%
+274,275,Movie,House at the End of the Street,"United States, Canada",2020-05-08,2012,PG-13,13+,5.6,14%
+275,276,Movie,How It Ends,United States,2018-07-13,2018,TV-MA,18+,5.0,17%
+276,277,Movie,How the Grinch Stole Christmas,United States,2017-06-01,2000,PG,7+,6.2,50%
+277,278,Movie,How to Be a Latin Lover,"Mexico, United States",2019-11-01,2017,PG-13,13+,5.9,39%
+278,279,Movie,Hugo,"United Kingdom, United States, France",2020-03-01,2011,PG,7+,7.5,93%
+279,280,Movie,Hush,United States,2016-04-08,2016,R,18+,6.6,91%
+280,281,Movie,I Am Bolt,United Kingdom,2017-10-01,2016,PG,7+,7.1,85%
+281,282,Movie,I Am Kalam,India,2018-07-01,2010,TV-PG,all,8.0,80%
+282,283,Movie,I Am Mother,Australia,2019-06-07,2019,TV-PG,13+,6.7,90%
+283,284,Movie,I Am Vengeance,United Kingdom,2018-12-22,2018,R,18+,4.3,38%
+284,285,Movie,I Am Wrath,United States,2019-09-16,2016,R,18+,5.4,11%
+285,286,Movie,I Don't Feel at Home in This World Anymore,United States,2017-02-24,2017,TV-MA,18+,6.9,88%
+286,287,Movie,I Don't Know How She Does It,United States,2019-03-23,2011,PG-13,13+,4.9,17%
+287,288,Movie,I Lost My Body,France,2019-11-29,2019,TV-MA,18+,7.6,96%
+288,289,Movie,I'll See You in My Dreams,United States,2019-10-22,2015,PG-13,13+,6.7,80%
+289,290,Movie,I'm in Love with a Church Girl,United States,2017-10-01,2013,PG,7+,4.4,6%
+290,291,Movie,Ibiza,United States,2018-05-25,2018,TV-MA,18+,5.2,75%
+291,292,Movie,Icarus,United States,2017-08-04,2017,TV-MA,18+,7.9,93%
+292,293,Movie,Illang: The Wolf Brigade,South Korea,2018-10-19,2018,TV-MA,18+,6.0,29%
+293,294,Movie,Imagine That,"United States, Germany",2019-12-07,2009,PG,7+,5.6,41%
+294,295,Movie,In the Shadow of the Moon,"United States, Canada",2019-09-27,2019,TV-MA,18+,6.2,59%
+295,296,Movie,In the Tall Grass,"Canada, United States",2019-10-04,2019,TV-MA,18+,5.4,36%
+296,297,Movie,In This Corner of the World,Japan,2018-03-15,2016,PG-13,13+,7.8,97%
+297,298,Movie,Inception,"United States, United Kingdom",2020-01-01,2010,PG-13,13+,8.8,87%
+298,299,Movie,Indiana Jones and the Kingdom of the Crystal Skull,United States,2019-01-01,2008,PG-13,13+,6.1,78%
+299,300,Movie,Indiana Jones and the Last Crusade,United States,2019-01-01,1989,PG-13,13+,8.2,88%
+300,301,Movie,Indiana Jones and the Temple of Doom,United States,2019-01-01,1984,PG,7+,7.6,85%
+301,302,Movie,Inequality for All,United States,2018-08-29,2013,PG,7+,8.0,90%
+302,303,Movie,Inglourious Basterds,"Germany, United States",2019-07-22,2009,R,18+,8.3,89%
+303,304,Movie,Initial D,"China, Hong Kong",2018-08-01,2005,TV-14,7+,6.4,33%
+304,305,Movie,Insidious,"United States, Canada, United Kingdom",2019-05-09,2010,PG-13,13+,6.8,66%
+305,306,Movie,Instructions Not Included,Mexico,2020-01-01,2013,PG-13,13+,7.5,57%
+306,307,Movie,IO,United States,2019-01-18,2019,TV-14,13+,4.7,57%
+307,308,Movie,Ip Man,"Hong Kong, China",2016-01-15,2008,R,18+,8.0,85%
+308,309,Movie,Ip Man 2,"Hong Kong, China",2016-01-15,2010,R,18+,7.5,96%
+309,310,Movie,Ip Man 3,"China, Hong Kong",2016-06-18,2015,PG-13,13+,7.1,78%
+310,311,Movie,Irreplaceable You,United States,2018-02-16,2018,TV-MA,18+,6.4,32%
+311,312,Movie,It Comes at Night,United States,2019-12-09,2017,R,18+,6.2,87%
+312,313,Movie,It Takes Two,United States,2019-11-20,1995,PG,7+,5.9,8%
+313,314,Movie,Ittefaq,India,2018-04-03,2017,TV-MA,7+,7.2,89%
+314,315,Movie,Jacob's Ladder,United States,2019-12-22,2019,R,18+,3.4,5%
+315,316,Movie,Jagga Jasoos,India,2018-10-01,2017,TV-14,7+,6.5,90%
+316,317,Movie,Jailbreak,Cambodia,2018-05-02,2017,TV-MA,18+,5.4,70%
+317,318,Movie,Jem and the Holograms,United States,2020-04-16,2015,PG,7+,4.1,22%
+318,319,Movie,Jeremiah Tower: The Last Magnificent,"Mexico, United States",2017-12-20,2016,R,18+,6.4,84%
+319,320,Movie,Jersey Boys,United States,2019-01-01,2014,R,18+,6.8,51%
+320,321,Movie,Jim Gaffigan: Obsessed,United States,2016-08-11,2014,TV-14,16+,7.6,100%
+321,322,Movie,Jimmy Neutron: Boy Genius,United States,2020-01-01,2001,G,all,6.0,74%
+322,323,Movie,Jiro Dreams of Sushi,United States,2019-06-05,2011,PG,7+,7.9,99%
+323,324,Movie,Jodhaa Akbar,India,2018-10-01,2008,TV-14,13+,7.6,75%
+324,325,Movie,John Mulaney: Kid Gorgeous at Radio City,United States,2018-05-01,2018,TV-MA,18+,7.9,100%
+325,326,Movie,Jonathan,United States,2019-04-16,2018,TV-MA,18+,5.9,65%
+326,327,Movie,Joshua: Teenager vs. Superpower,United States,2017-05-26,2017,TV-14,16+,7.0,93%
+327,328,Movie,Juanita,United States,2019-03-08,2019,TV-MA,18+,5.9,77%
+328,329,Movie,Judwaa 2,India,2018-03-01,2017,TV-14,16+,3.8,36%
+329,330,Movie,Judy Moody and the Not Bummer Summer,United States,2019-08-08,2011,PG,7+,4.2,20%
+330,331,Movie,Julie & Julia,United States,2021-01-01,2009,PG-13,13+,7.0,77%
+331,332,Movie,Jupiter Ascending,"United States, Australia",2019-08-01,2015,PG-13,13+,5.3,27%
+332,333,Movie,Just Friends,"Germany, United States, Canada",2019-09-01,2005,PG-13,13+,6.2,42%
+333,334,Movie,Kaabil,India,2017-06-25,2017,TV-14,18+,7.1,70%
+334,335,Movie,Kabhi Alvida Naa Kehna,India,2020-04-01,2006,TV-14,18+,6.1,58%
+335,336,Movie,Kabhi Khushi Kabhie Gham,India,2020-04-01,2001,TV-14,all,7.4,100%
+336,337,Movie,Kahlil Gibran's The Prophet,"United States, France, Canada, Lebanon, Qatar",2017-10-01,2014,PG,7+,7.1,65%
+337,338,Movie,Kal Ho Naa Ho,India,2020-04-01,2003,TV-14,all,8.0,70%
+338,339,Movie,Kapoor & Sons,India,2020-04-01,2016,TV-14,13+,7.7,100%
+339,340,Movie,Karthik Calling Karthik,India,2019-12-15,2010,TV-14,7+,7.0,80%
+340,341,Movie,Kate & Leopold,United States,2020-01-01,2001,PG-13,13+,6.4,50%
+341,342,Movie,Kevin Hart: Irresponsible,United States,2019-04-02,2019,TV-MA,18+,6.4,100%
+342,343,Movie,Kevin Hart: Laugh at My Pain,United States,2018-10-01,2011,R,18+,7.4,71%
+343,344,Movie,Kevin Hart: Let Me Explain,United States,2018-07-13,2013,R,18+,6.8,61%
+344,345,Movie,Kevin Hart: What Now?,United States,2017-04-11,2016,R,18+,5.9,76%
+345,346,Movie,Khoobsurat,India,2018-10-01,2014,TV-14,7+,6.4,80%
+346,347,Movie,Kicking and Screaming,United States,2019-11-04,1995,R,18+,6.8,57%
+347,348,Movie,Kill the Messenger,United States,2018-12-16,2014,R,18+,6.9,77%
+348,349,Movie,Killer Klowns from Outer Space,United States,2020-04-01,1988,PG-13,13+,6.2,78%
+349,350,Movie,Killing Them Softly,United States,2020-03-30,2012,R,18+,6.2,73%
+350,351,Movie,Kings,"France, Belgium, China, United States",2018-10-29,2017,R,18+,5.0,13%
+351,352,Movie,Kiss the Girls,United States,2020-01-01,1997,R,18+,6.6,29%
+352,353,Movie,Klaus,"Spain, United Kingdom",2019-11-15,2019,PG,7+,8.2,94%
+353,354,Movie,Kon-Tiki,"United Kingdom, Norway, Denmark, Germany, Sweden",2019-04-26,2012,PG-13,13+,7.2,81%
+354,355,Movie,Kung Fu Hustle,"Hong Kong, China, United States",2020-04-01,2004,R,18+,7.7,90%
+355,356,Movie,LA 92,United States,2018-03-01,2017,R,18+,8.2,92%
+356,357,Movie,La Bamba,United States,2020-01-01,1987,PG-13,13+,6.9,90%
+357,358,Movie,Lady Bloodfight,Hong Kong,2017-08-05,2016,R,18+,5.6,40%
+358,359,Movie,Lawless,United States,2019-12-29,2012,R,18+,7.3,67%
+359,360,Movie,Legend,"United Kingdom, France, United States",2020-01-16,2015,R,18+,6.9,61%
+360,361,Movie,Let It Fall: Los Angeles 1982-1992,United States,2017-11-06,2017,TV-MA,18+,7.7,100%
+361,362,Movie,Let It Snow,United States,2019-11-08,2019,PG-13,13+,5.8,81%
+362,363,Movie,Lez Bomb,United States,2019-02-07,2018,TV-14,18+,5.0,89%
+363,364,Movie,Life After Beth,United States,2018-07-21,2014,R,18+,5.6,44%
+364,365,Movie,Like Father,United States,2018-08-03,2018,TV-MA,18+,6.1,49%
+365,366,Movie,Lila & Eve,United States,2016-02-06,2015,R,18+,5.8,40%
+366,367,Movie,Little Evil,United States,2017-09-01,2017,TV-MA,18+,5.7,83%
+367,368,Movie,Little Monsters,United States,2020-11-01,1989,PG,7+,6.1,50%
+368,369,Movie,Lost Girls,United States,2020-03-13,2020,R,18+,6.1,73%
+369,370,Movie,Love Wedding Repeat,"United Kingdom, Italy",2020-04-10,2020,TV-MA,18+,5.5,21%
+370,444,Movie,Paheli,India,2018-04-01,2005,TV-PG,13+,6.5,57%
+371,371,Movie,"Love, Rosie","Germany, United Kingdom",2019-11-20,2014,R,18+,7.2,33%
+372,372,Movie,Lu Over the Wall,Japan,2020-03-18,2017,PG,7+,6.8,76%
+373,373,Movie,Luka Chuppi,India,2019-06-07,2019,TV-PG,7+,6.3,33%
+374,374,Movie,Madagascar: Escape 2 Africa,United States,2020-05-01,2008,PG,7+,6.6,64%
+375,375,Movie,Magnolia,United States,2020-01-01,1999,R,18+,8.0,83%
+376,376,Movie,Malevolent,United Kingdom,2018-10-05,2018,TV-MA,18+,4.8,38%
+377,377,Movie,Man of Tai Chi,"United States, China, Hong Kong",2018-07-26,2013,R,18+,6.1,70%
+378,378,Movie,Mantra,India,2017-12-15,2017,TV-14,13+,5.2,40%
+379,379,Movie,Maps to the Stars,"Canada, Germany, France, United States",2018-12-16,2014,R,18+,6.2,61%
+380,380,Movie,Marriage Story,"United Kingdom, United States",2019-12-06,2019,R,18+,8.0,95%
+381,381,Movie,Martin Lawrence Live: Runteldat,United States,2019-12-01,2002,R,18+,5.4,39%
+382,382,Movie,Mary and the Witch's Flower,Japan,2018-07-17,2017,PG,7+,6.8,89%
+383,383,Movie,Mary Poppins Returns,"United States, United Kingdom",2019-07-09,2018,PG,7+,6.7,79%
+384,384,Movie,Mascots,United States,2016-10-13,2016,TV-MA,18+,5.7,49%
+385,385,Movie,May the Devil Take You,Indonesia,2018-11-15,2018,TV-MA,18+,6.0,83%
+386,386,Movie,Mean Dreams,Canada,2019-07-01,2016,R,18+,6.3,78%
+387,387,Movie,Melvin Goes to Dinner,United States,2018-07-01,2003,R,18+,6.8,100%
+388,388,Movie,Menashe,United States,2020-01-25,2017,PG,7+,6.5,96%
+389,389,Movie,Mercy Black,United States,2019-03-31,2019,TV-14,16+,4.9,40%
+390,390,Movie,Message from the King,"United Kingdom, France, Belgium, United States",2017-08-04,2017,TV-MA,18+,6.4,43%
+391,391,Movie,"Michael Bolton's Big, Sexy Valentine's Day Special",United States,2017-02-07,2017,TV-MA,18+,6.7,100%
+392,392,Movie,Middle School: The Worst Years of My Life,"United States, Cambodia",2019-03-03,2016,PG,7+,6.1,63%
+393,393,Movie,Miracle,"Canada, United States",2018-06-01,2004,PG,7+,7.5,81%
+394,394,Movie,Mirage,Spain,2019-03-22,2018,TV-MA,18+,7.4,71%
+395,395,Movie,Mirror Mirror,"United States, Canada",2020-04-24,2012,PG,7+,5.6,50%
+396,396,Movie,Miss Americana,United States,2020-01-31,2020,TV-MA,18+,7.4,93%
+397,397,Movie,Miss Hokusai,Japan,2017-10-01,2015,PG-13,13+,6.7,93%
+398,398,Movie,Miss Julie,"Norway, United Kingdom, France, Ireland",2015-09-02,2014,PG-13,13+,5.4,51%
+399,399,Movie,Miss Virginia,United States,2020-02-16,2019,TV-MA,16+,6.6,60%
+400,400,Movie,Mission Control: The Unsung Heroes of Apollo,"United States, United Kingdom",2017-08-13,2017,TV-14,7+,7.5,100%
+401,401,Movie,Mississippi Grind,United States,2018-07-26,2015,R,18+,6.4,91%
+402,402,Movie,Molly's Game,"China, Canada, United States",2020-04-01,2017,R,18+,7.4,82%
+403,403,Movie,Monster Island,"India, Mexico",2017-12-01,2017,TV-Y7,7+,4.8,18%
+404,404,Movie,Monsters: Dark Continent,United Kingdom,2020-01-10,2014,R,18+,4.3,17%
+405,405,Movie,Monty Python and the Holy Grail,United Kingdom,2019-01-02,1975,PG,7+,8.2,97%
+406,406,Movie,Moon,"United Kingdom, United States",2020-01-01,2009,R,18+,7.9,90%
+407,407,Movie,Moonlight,United States,2019-05-21,2016,R,18+,7.4,98%
+408,408,Movie,Moonwalkers,"France, Belgium",2017-09-08,2015,R,18+,6.1,42%
+409,409,Movie,Morris from America,"Germany, United States",2018-11-01,2016,R,18+,6.2,88%
+410,410,Movie,Mowgli: Legend of the Jungle,"United Kingdom, United States",2018-12-07,2018,PG-13,13+,6.5,52%
+411,411,Movie,Mr. Church,United States,2018-12-22,2016,PG-13,13+,7.6,24%
+412,412,Movie,Mr. Roosevelt,United States,2017-12-26,2017,TV-MA,18+,6.2,100%
+413,413,Movie,Mubarakan,India,2017-11-05,2017,PG-13,13+,5.6,43%
+414,414,Movie,Mudbound,United States,2017-11-17,2017,R,18+,7.4,97%
+415,415,Movie,Murder Mystery,United States,2019-06-14,2019,PG-13,13+,6.0,44%
+416,416,Movie,Mute,"United Kingdom, Germany",2018-02-23,2018,TV-MA,18+,5.4,20%
+417,417,Movie,My Entire High School Sinking Into the Sea,United States,2018-01-23,2016,PG-13,13+,6.0,85%
+418,418,Movie,My Girl,United States,2020-01-01,1991,PG-13,7+,6.9,53%
+419,419,Movie,My Life as a Zucchini,"Switzerland, France",2017-10-01,2016,PG-13,13+,7.8,99%
+420,420,Movie,My Suicide,United States,2018-10-01,2009,TV-MA,18+,7.2,57%
+421,421,Movie,My Week with Marilyn,"United Kingdom, United States",2019-05-30,2011,R,13+,7.0,83%
+422,422,Movie,Mystic River,"United States, Australia",2019-09-01,2003,R,18+,7.9,88%
+423,423,Movie,Nacho Libre,"United States, Mexico",2019-11-01,2006,PG,7+,5.7,39%
+424,424,Movie,Nappily Ever After,United States,2019-03-07,2018,TV-MA,18+,6.4,71%
+425,425,Movie,Neruda,"Chile, Argentina, France, Spain, United States",2017-06-26,2016,R,18+,6.9,93%
+426,426,Movie,Next Gen,"China, Canada, United States",2018-09-07,2018,TV-PG,7+,6.6,80%
+427,427,Movie,Ninja Assassin,"Germany, United States, France",2019-02-01,2009,R,18+,6.3,25%
+428,428,Movie,No One Killed Jessica,India,2018-11-01,2011,TV-MA,13+,7.2,80%
+429,429,Movie,Nobody Speak: Trials of the Free Press,"Netherlands, United States",2017-06-23,2017,TV-14,16+,6.5,91%
+430,430,Movie,Norman Lear: Just Another Version of You,United States,2016-11-01,2016,TV-MA,13+,7.2,86%
+431,431,Movie,Obvious Child,United States,2018-07-19,2014,R,18+,6.8,90%
+432,432,Movie,Occupation,Australia,2019-01-03,2018,R,18+,5.1,50%
+433,433,Movie,Okja,"South Korea, United States",2017-06-28,2017,TV-MA,13+,7.3,87%
+434,434,Movie,Olympus Has Fallen,United States,2019-05-02,2013,R,18+,6.5,49%
+435,435,Movie,Om Shanti Om,India,2018-04-01,2007,TV-14,7+,6.7,76%
+436,436,Movie,Once Upon a Time in the West,"Italy, United States",2019-11-20,1968,PG-13,13+,8.5,95%
+437,437,Movie,Open Season,United States,2019-09-01,2006,PG,7+,6.1,48%
+438,438,Movie,Operation Red Sea,"China, Morocco, Hong Kong",2018-11-27,2018,TV-MA,18+,6.7,80%
+439,439,Movie,Orbiter 9,"Spain, Colombia",2018-04-06,2017,TV-14,16+,5.9,67%
+440,440,Movie,Otherhood,"United Kingdom, United States",2019-08-02,2019,R,18+,6.0,29%
+441,441,Movie,Our Souls at Night,United States,2017-09-29,2017,TV-14,16+,6.9,90%
+442,442,Movie,Outlaw King,"United Kingdom, United States",2018-11-09,2018,R,18+,6.9,61%
+443,443,Movie,Paddleton,United States,2019-02-22,2019,TV-MA,18+,7.2,89%
+444,445,Movie,Pan's Labyrinth,"Mexico, Spain",2020-01-01,2006,R,18+,8.2,95%
+445,446,Movie,Pari,Pakistan,2019-01-15,2018,TV-14,13+,6.6,45%
+446,447,Movie,Patriot Games,United States,2020-01-01,1992,R,18+,6.9,72%
+447,448,Movie,Pee-wee's Big Holiday,United States,2016-03-18,2016,TV-PG,7+,6.1,80%
+448,449,Movie,Perdida,"Argentina, Spain",2018-08-09,2018,TV-MA,18+,5.6,20%
+449,450,Movie,Phantom Boy,"France, Belgium",2017-10-01,2015,PG,7+,6.6,88%
+450,451,Movie,Philadelphia,United States,2019-07-01,1993,PG-13,13+,7.7,80%
+451,452,Movie,PK,India,2018-09-06,2014,TV-14,13+,8.1,76%
+452,453,Movie,Point Blank,"France, United States",2019-07-12,2019,TV-MA,18+,5.7,38%
+453,454,Movie,Pokémon the Movie: I Choose You!,Japan,2019-01-01,2017,TV-Y7,7+,6.3,33%
+454,455,Movie,Pokémon: Mewtwo Strikes Back - Evolution,Japan,2020-02-27,2019,TV-Y7,13+,5.7,44%
+455,456,Movie,Polar,"United States, Germany",2019-01-25,2019,TV-MA,18+,6.3,16%
+456,457,Movie,Pope Francis: A Man of His Word,"Switzerland, Vatican City, Italy, Germany, France",2019-01-03,2018,PG,7+,6.1,83%
+457,458,Movie,Popeye,United States,2019-11-24,1980,PG,7+,5.3,59%
+458,459,Movie,Poster Boys,India,2017-11-27,2017,PG-13,13+,5.5,33%
+459,460,Movie,Puerto Ricans in Paris,United States,2020-04-16,2015,R,18+,5.3,36%
+460,461,Movie,Quartet,United Kingdom,2020-05-11,2012,PG-13,13+,6.8,80%
+461,462,Movie,Quincy,United States,2018-09-21,2018,TV-MA,18+,7.6,81%
+462,463,Movie,Raajneeti,India,2018-08-02,2010,TV-14,7+,7.1,13%
+463,464,Movie,Race to Witch Mountain,United States,2019-07-01,2009,PG,7+,5.7,42%
+464,465,Movie,Raees,India,2017-05-26,2017,TV-14,18+,6.8,67%
+465,466,Movie,Ready to Mingle,Mexico,2019-10-02,2019,TV-MA,18+,5.9,44%
+466,467,Movie,Red Dawn,United States,2019-12-31,1984,PG-13,13+,6.4,46%
+467,468,Movie,Reincarnated,United States,2016-06-13,2012,R,18+,6.2,29%
+468,469,Movie,Remember,"Canada, Mexico, Germany, South Africa",2018-07-26,2015,R,18+,7.5,70%
+469,470,Movie,Resident Evil: Afterlife,"Germany, France, United States, Canada, United Kingdom",2020-01-01,2010,R,18+,5.8,22%
+470,471,Movie,Results,United States,2015-10-22,2015,R,18+,5.4,84%
+471,472,Movie,Revenge of the Green Dragons,"Hong Kong, United States",2018-07-21,2014,R,18+,5.3,15%
+472,473,Movie,Revenger,South Korea,2019-01-15,2018,TV-MA,18+,5.7,40%
+473,474,Movie,Richard Pryor: Live in Concert,United States,2016-12-01,1979,TV-MA,18+,8.2,92%
+474,475,Movie,Rim of the World,United States,2019-05-24,2019,TV-14,7+,5.1,30%
+475,476,Movie,Rocko's Modern Life: Static Cling,United States,2019-08-09,2019,TV-Y7,7+,7.0,91%
+476,477,Movie,Rolling Papers,"United States, Uruguay",2017-09-08,2015,TV-MA,18+,6.2,58%
+477,478,Movie,Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese,United States,2019-06-12,2019,TV-MA,18+,7.7,92%
+478,479,Movie,Room,"Ireland, Canada, United Kingdom, United States",2018-07-19,2015,R,18+,8.1,93%
+479,480,Movie,Rowdy Rathore,India,2018-08-02,2012,TV-14,13+,5.7,55%
+480,481,Movie,Rugrats in Paris: The Movie,"Germany, United States",2019-10-01,2000,G,all,6.1,76%
+481,482,Movie,Same Kind of Different as Me,United States,2018-08-17,2017,PG-13,13+,6.6,33%
+482,483,Movie,Sand Castle,United States,2017-04-21,2017,TV-MA,18+,6.3,44%
+483,484,Movie,Sandy Wexler,United States,2017-04-14,2017,TV-14,16+,5.1,27%
+484,485,Movie,Sarah's Key,France,2019-09-21,2010,PG-13,13+,7.5,72%
+485,486,Movie,Savage Dog,United States,2017-11-01,2017,TV-MA,16+,4.9,75%
+486,487,Movie,Saving Mr. Banks,"United States, United Kingdom, Australia",2019-03-02,2013,PG-13,13+,7.5,79%
+487,488,Movie,Scary Movie,United States,2020-01-01,2000,R,18+,6.2,53%
+488,489,Movie,School Daze,United States,2020-11-01,1988,R,18+,6.0,58%
+489,490,Movie,Scooby-Doo on Zombie Island,United States,2019-12-15,1998,TV-PG,all,7.8,86%
+490,491,Movie,Scott Pilgrim vs. the World,"United States, United Kingdom, Canada, Japan",2018-09-16,2010,PG-13,13+,7.5,81%
+491,492,Movie,Search Party,United States,2020-03-16,2014,R,18+,5.6,11%
+492,493,Movie,Searching for Sugar Man,"Sweden, United Kingdom, Finland",2019-12-01,2012,PG-13,13+,8.2,95%
+493,494,Movie,Secret in Their Eyes,"United States, United Kingdom, Spain, South Korea",2018-04-01,2015,PG-13,13+,6.3,39%
+494,495,Movie,Secret Obsession,United States,2019-07-18,2019,TV-14,13+,4.3,36%
+495,496,Movie,Seeing Allred,United States,2018-02-09,2018,TV-14,16+,6.8,100%
+496,497,Movie,Senna,"United Kingdom, France, United States",2019-10-01,2010,PG-13,13+,8.5,93%
+497,498,Movie,Seoul Searching,"South Korea, China, United States",2017-12-15,2015,TV-MA,18+,7.1,75%
+498,499,Movie,Sergio,United States,2020-04-17,2020,R,18+,6.1,44%
+499,500,Movie,Sex and the City 2,United States,2021-01-01,2010,R,18+,4.5,16%
+500,501,Movie,Sextuplets,United States,2019-08-16,2019,TV-14,16+,4.4,14%
+501,502,Movie,She's Out of My League,United States,2019-11-20,2010,R,18+,6.4,58%
+502,503,Movie,Shimmer Lake,"Canada, United States",2017-06-09,2017,TV-MA,18+,6.2,50%
+503,504,Movie,Shorts,"United States, United Arab Emirates",2019-07-01,2009,PG,7+,4.7,46%
+504,505,Movie,Shot Caller,United States,2019-11-24,2017,R,18+,7.3,69%
+505,506,Movie,Silver Linings Playbook,United States,2020-03-16,2012,R,18+,7.7,92%
+506,507,Movie,Sinister 2,"United States, United Kingdom",2019-10-16,2015,R,18+,5.3,16%
+507,508,Movie,Skin Trade,"Thailand, Canada, United States",2018-12-17,2014,R,18+,5.6,25%
+508,509,Movie,Skiptrace,"China, Hong Kong, United States",2019-07-04,2016,PG-13,13+,5.7,38%
+509,510,Movie,Sleeping with Other People,United States,2017-10-02,2015,R,18+,6.5,64%
+510,511,Movie,Sleepover,United States,2020-03-01,2004,PG,7+,5.3,15%
+511,512,Movie,Sliver,United States,2020-01-01,1993,R,18+,5.0,11%
+512,513,Movie,Slow West,"United Kingdom, New Zealand",2018-07-26,2015,R,18+,6.9,92%
+513,514,Movie,Snow Day,United States,2020-01-01,2000,PG,7+,5.1,29%
+514,515,Movie,Snowpiercer,"South Korea, Czech Republic",2019-05-01,2013,R,18+,7.1,94%
+515,516,Movie,Social Animals,United States,2019-03-19,2018,TV-MA,18+,5.2,38%
+516,517,Movie,Solo: A Star Wars Story,United States,2019-01-09,2018,PG-13,13+,6.9,70%
+517,518,Movie,Someone Great,United States,2019-04-19,2019,R,18+,6.2,83%
+518,519,Movie,Son of a Gun,"Australia, United Kingdom, Canada",2018-07-19,2014,R,18+,6.5,62%
+519,520,Movie,Soorma,India,2018-10-13,2018,TV-14,13+,7.4,50%
+520,521,Movie,Soul Surfer,United States,2020-05-17,2011,PG,7+,7.0,45%
+521,522,Movie,Sour Grapes,United Kingdom,2016-11-18,2016,NR,16+,7.3,96%
+522,523,Movie,Special Correspondents,"Canada, United Kingdom, United States",2016-04-29,2016,TV-MA,13+,5.8,18%
+523,524,Movie,Spectral,"United States, Hungary",2016-12-09,2016,TV-14,13+,6.3,75%
+524,525,Movie,Speech & Debate,United States,2017-07-06,2017,PG-13,13+,5.9,55%
+525,526,Movie,Spenser Confidential,United States,2020-03-06,2020,R,18+,6.2,38%
+526,527,Movie,Spider-Man: Into the Spider-Verse,United States,2019-06-26,2018,PG,7+,8.4,97%
+527,528,Movie,Spy Kids: All the Time in the World,United States,2019-02-19,2011,PG,7+,3.5,22%
+528,529,Movie,Starred Up,United Kingdom,2019-08-29,2013,TV-MA,18+,7.4,99%
+529,530,Movie,Step Sisters,United States,2018-01-19,2018,PG-13,13+,5.4,22%
+530,531,Movie,Steve Jobs,"United Kingdom, United States",2020-01-16,2015,R,18+,7.2,85%
+531,532,Movie,Stink!,United States,2018-11-01,2015,TV-PG,all,7.1,89%
+532,533,Movie,Stonehearst Asylum,United States,2017-09-08,2014,PG-13,13+,6.8,54%
+533,534,Movie,Strange Weather,United States,2017-10-26,2016,R,18+,5.9,58%
+534,535,Movie,Stree,India,2019-06-07,2018,TV-MA,7+,7.6,77%
+535,536,Movie,Stuart Little,"Germany, United States",2020-01-01,1999,PG,7+,5.9,67%
+536,537,Movie,Stuart Little 2,United States,2020-01-01,2002,PG,all,5.4,81%
+537,538,Movie,Studio 54,United States,2019-02-16,2018,TV-MA,18+,6.9,90%
+538,539,Movie,Suffragette,"United Kingdom, France",2019-11-16,2015,PG-13,13+,6.9,73%
+539,540,Movie,Swades,India,2018-03-01,2004,TV-PG,all,8.2,83%
+540,541,Movie,Swearnet: The Movie,Canada,2017-09-24,2014,NC-17,18+,5.9,20%
+541,542,Movie,Sweet Virginia,"United States, Canada",2019-12-01,2017,R,18+,6.2,78%
+542,543,Movie,Sweetheart,United States,2019-12-25,2019,PG-13,13+,5.7,94%
+543,544,Movie,Swiss Army Man,"United States, Sweden",2019-01-30,2016,R,18+,7.0,71%
+544,545,Movie,Take Me,United States,2017-07-07,2017,TV-MA,18+,6.1,67%
+545,546,Movie,Tall Girl,United States,2019-09-13,2019,TV-PG,7+,5.2,44%
+546,547,Movie,Tamasha,India,2018-08-02,2015,TV-14,7+,7.3,67%
+547,548,Movie,Tarzan,United States,2018-06-23,1999,G,all,7.3,89%
+548,549,Movie,Taxi Driver,United States,2020-04-01,1976,R,18+,8.3,95%
+549,550,Movie,Temple,"Japan, United States",2017-12-02,2017,TV-MA,18+,3.6,27%
+550,551,Movie,Terminator 3: Rise of the Machines,"United States, Germany, United Kingdom",2020-01-01,2003,R,18+,6.3,69%
+551,552,Movie,Terminator Salvation,"United States, Germany, United Kingdom, Italy",2020-01-01,2009,PG-13,13+,6.5,33%
+552,553,Movie,The Adventures of Tintin,"United States, New Zealand, United Kingdom",2019-11-20,2011,PG,7+,7.3,74%
+553,554,Movie,The Angel,"Israel, United States",2018-09-14,2018,TV-MA,18+,6.6,75%
+554,555,Movie,The Angry Birds Movie 2,"Finland, United States",2020-02-27,2019,PG,7+,6.4,73%
+555,556,Movie,The Art of the Steal,"Canada, United States",2018-12-08,2013,R,18+,6.3,44%
+556,557,Movie,The Artist,"France, Belgium, United States",2020-04-25,2011,PG-13,13+,7.9,95%
+557,558,Movie,The Assignment,"France, Canada, United States",2020-03-15,2016,R,18+,4.6,34%
+558,559,Movie,The Autopsy of Jane Doe,"United Kingdom, United States",2018-12-30,2016,R,18+,6.8,86%
+559,560,Movie,The Babysitter,United States,2017-10-13,2017,TV-MA,18+,6.3,71%
+560,561,Movie,The Bad Education Movie,United Kingdom,2018-12-15,2015,TV-MA,13+,5.7,63%
+561,562,Movie,The Ballad of Buster Scruggs,United States,2018-11-16,2018,R,18+,7.3,91%
+562,563,Movie,The Ballad of Lefty Brown,United States,2020-02-07,2017,R,18+,6.3,78%
+563,564,Movie,The Black Godfather,United States,2019-06-07,2019,TV-MA,18+,6.5,100%
+564,565,Movie,The Black Prince,"United Kingdom, India, United States",2018-10-03,2017,PG-13,13+,6.6,7%
+565,566,Movie,The Bleeding Edge,"Australia, United States",2018-07-27,2018,TV-14,16+,7.7,100%
+566,567,Movie,The Bling Ring,"United States, United Kingdom, France, Germany, Japan",2020-01-18,2013,R,18+,5.6,59%
+567,568,Movie,The Body Remembers When the World Broke Open,"Canada, Norway",2019-11-27,2019,TV-MA,18+,6.7,97%
+568,569,Movie,The Bounty Hunter,United States,2019-10-01,2010,PG-13,13+,5.6,12%
+569,570,Movie,The Boy Who Harnessed the Wind,"United Kingdom, Malawi",2019-03-01,2019,TV-PG,7+,7.6,87%
+570,571,Movie,The Breadwinner,"Ireland, Canada, Luxembourg, United States, United Kingdom, Philippines, India",2018-02-20,2017,PG-13,13+,7.7,95%
+571,572,Movie,The Bye Bye Man,"United States, China",2019-04-01,2017,PG-13,13+,4.2,18%
+572,573,Movie,The Captive,Canada,2018-07-20,2014,R,18+,5.9,30%
+573,574,Movie,The Case for Christ,United States,2017-11-21,2017,TV-PG,7+,6.2,59%
+574,575,Movie,The Christmas Chronicles,United States,2018-11-22,2018,TV-PG,7+,7.1,64%
+575,576,Movie,The Cloverfield Paradox,United States,2018-02-05,2018,PG-13,13+,5.5,16%
+576,577,Movie,The Company Men,United States,2018-07-28,2010,R,18+,6.7,67%
+577,578,Movie,The Confirmation,Canada,2019-02-06,2016,PG-13,13+,6.4,91%
+578,579,Movie,The Croods,United States,2019-07-29,2013,PG,7+,7.2,71%
+579,580,Movie,The Crying Game,"United Kingdom, Japan, United States",2020-01-01,1992,R,18+,7.2,94%
+580,581,Movie,The Danish Girl,"United Kingdom, United States, Germany, Denmark, Belgium, Japan",2019-12-16,2015,R,18+,7.1,67%
+581,582,Movie,The Death of Mr. Lazarescu,Romania,2020-03-04,2005,R,18+,7.9,93%
+582,583,Movie,The Death of Stalin,"United Kingdom, France, Belgium, Canada, United States",2020-04-03,2017,R,18+,7.2,96%
+583,584,Movie,The Devil Inside,United States,2019-11-20,2012,R,18+,4.2,6%
+584,585,Movie,The Dirt,United States,2019-03-22,2019,TV-MA,18+,7.0,42%
+585,586,Movie,The Discovery,United States,2017-03-31,2017,TV-MA,18+,6.3,46%
+586,587,Movie,The Do-Over,United States,2016-05-27,2016,TV-MA,18+,5.7,9%
+587,588,Movie,The Duel,United States,2019-06-02,2016,R,13+,5.8,26%
+588,589,Movie,The Edge of Democracy,Brazil,2019-06-19,2019,TV-14,16+,7.1,97%
+589,590,Movie,The Edge of Seventeen,"United States, China",2019-02-01,2016,R,18+,7.3,94%
+590,591,Movie,The End of the Tour,United States,2018-07-26,2015,R,18+,7.3,92%
+591,592,Movie,The Evil Dead,United States,2020-01-10,1981,TV-MA,18+,7.5,95%
+592,593,Movie,The Final Destination,United States,2020-01-01,2009,R,18+,5.2,29%
+593,594,Movie,The First Wives Club,United States,2019-11-20,1996,PG,7+,6.4,50%
+594,595,Movie,The Florida Project,United States,2020-04-06,2017,R,18+,7.6,96%
+595,596,Movie,The Foreigner,"United Kingdom, China, United States, India",2020-02-14,2017,R,18+,7.0,65%
+596,597,Movie,The Fundamentals of Caring,United States,2016-06-24,2016,TV-MA,18+,7.3,77%
+597,598,Movie,The Golem,Israel,2019-06-26,2018,TV-MA,18+,5.6,85%
+598,599,Movie,"The Goods: Live Hard, Sell Hard",United States,2019-11-20,2009,R,18+,5.8,27%
+599,600,Movie,The Grandmaster,"Hong Kong, China",2019-09-26,2013,PG-13,13+,6.6,78%
+600,601,Movie,The Green Hornet,United States,2020-04-18,2011,PG-13,13+,5.8,44%
+601,602,Movie,The Hateful Eight,United States,2017-10-25,2015,R,18+,7.8,75%
+602,603,Movie,The Heartbreak Kid,United States,2020-05-01,2007,R,18+,5.8,29%
+603,604,Movie,The Highwaymen,United States,2019-03-29,2019,R,18+,6.9,57%
+604,605,Movie,The Humanity Bureau,Canada,2018-12-18,2017,R,18+,4.8,25%
+605,606,Movie,The Hundred-Foot Journey,"United States, India, United Arab Emirates",2019-01-31,2014,PG,7+,7.3,67%
+606,607,Movie,The Hurricane Heist,"United Kingdom, United States",2018-09-26,2018,PG-13,13+,5.1,46%
+607,608,Movie,The Invention of Lying,United States,2020-01-01,2009,PG-13,13+,6.4,56%
+608,609,Movie,The Invisible Guest,Spain,2017-07-01,2016,TV-14,18+,8.1,67%
+609,610,Movie,The Irishman,United States,2019-11-27,2019,R,18+,7.9,96%
+610,611,Movie,The Iron Lady,"United Kingdom, France",2019-07-07,2011,PG-13,13+,6.4,52%
+611,612,Movie,The Keeping Hours,United States,2018-09-01,2017,PG-13,13+,6.3,80%
+612,613,Movie,The Killing of a Sacred Deer,"Ireland, United Kingdom",2020-04-05,2017,R,18+,7.0,79%
+613,614,Movie,The King,"United Kingdom, Hungary, Australia",2019-11-01,2019,R,18+,7.2,70%
+614,615,Movie,The King's Speech,"United Kingdom, United States, Australia",2018-06-02,2010,R,18+,8.0,95%
+615,616,Movie,The Kissing Booth,"United Kingdom, United States",2018-05-11,2018,TV-14,16+,6.1,17%
+616,617,Movie,The Knight Before Christmas,United States,2019-11-21,2019,TV-14,7+,5.5,75%
+617,618,Movie,The Last Airbender,United States,2020-04-08,2010,PG,7+,4.1,5%
+618,619,Movie,The Last Days of Chez Nous,Australia,2016-11-01,1992,R,18+,6.6,85%
+619,620,Movie,The Last Face,United States,2020-01-13,2016,R,18+,4.9,8%
+620,621,Movie,The Last Summer,United States,2019-05-03,2019,TV-14,16+,5.6,17%
+621,622,Movie,The Last Thing He Wanted,United States,2020-02-21,2020,R,18+,4.2,6%
+622,623,Movie,The Laundromat,United States,2019-10-18,2019,R,18+,6.3,42%
+623,624,Movie,The Legacy of a Whitetail Deer Hunter,United States,2018-07-06,2018,TV-14,16+,5.5,32%
+624,625,Movie,The Little Hours,"Canada, United States",2018-12-23,2017,R,18+,5.8,78%
+625,626,Movie,The Little Mermaid,United States,2018-12-01,2018,PG,7+,4.2,20%
+626,627,Movie,The Little Prince,"France, Canada, Italy, United States, China",2020-11-06,2015,PG,7+,7.7,93%
+627,628,Movie,The Lobster,"Ireland, United Kingdom, Greece, France, Netherlands",2018-12-02,2015,R,18+,7.2,87%
+628,629,Movie,The Lodgers,Ireland,2018-08-23,2017,R,18+,5.1,55%
+629,630,Movie,The Longshots,United States,2019-01-30,2008,PG,7+,5.4,41%
+630,631,Movie,The Love Guru,"United Kingdom, Germany, United States",2019-11-20,2008,PG-13,13+,3.8,14%
+631,632,Movie,The Lovers,United States,2019-11-05,2017,R,18+,6.0,84%
+632,633,Movie,The Mask of Zorro,"United States, Germany, Mexico",2020-01-01,1998,PG-13,13+,6.7,82%
+633,634,Movie,The Master,United States,2020-01-14,2012,R,18+,7.2,85%
+634,635,Movie,The Matrix,United States,2019-11-01,1999,R,18+,8.7,87%
+635,636,Movie,The Matrix Reloaded,United States,2019-11-01,2003,R,18+,7.2,73%
+636,637,Movie,The Matrix Revolutions,United States,2019-11-01,2003,R,18+,6.8,35%
+637,638,Movie,The Meyerowitz Stories (New and Selected),United States,2017-10-13,2017,TV-MA,18+,6.9,93%
+638,639,Movie,The Monster,"United States, Canada",2019-01-09,2016,R,18+,5.4,81%
+639,640,Movie,The Most Assassinated Woman in the World,"Belgium, United Kingdom, United States",2018-09-07,2018,TV-MA,18+,5.3,86%
+640,641,Movie,The Most Hated Woman in America,United States,2017-03-24,2017,TV-MA,18+,6.1,43%
+641,642,Movie,The Motive,"Spain, Mexico",2018-08-17,2017,TV-MA,18+,6.5,63%
+642,643,Movie,The Naked Gun: From the Files of Police Squad!,United States,2021-01-01,1988,PG-13,13+,7.6,87%
+643,644,Movie,The Natural,United States,2020-01-01,1984,PG,7+,7.5,82%
+644,645,Movie,The Night Comes for Us,"Indonesia, United States",2018-10-19,2018,TV-MA,18+,7.0,92%
+645,646,Movie,The Nutcracker and the Four Realms,United States,2019-05-28,2018,PG,7+,5.5,33%
+646,647,Movie,The Occupant,Spain,2020-03-25,2020,TV-MA,18+,6.3,50%
+647,648,Movie,The One I Love,United States,2019-05-30,2014,R,18+,7.1,82%
+648,649,Movie,The Open House,"Canada, United States",2018-01-19,2018,TV-MA,18+,3.2,23%
+649,650,Movie,The Other Guys,United States,2020-02-01,2010,PG-13,13+,6.6,78%
+650,651,Movie,The Other Side of the Wind,"France, Iran, United States",2018-11-02,2018,R,18+,6.8,83%
+651,652,Movie,The Outcasts,United States,2017-08-14,2017,TV-14,13+,5.5,50%
+652,653,Movie,The Package,United States,2018-08-10,2018,TV-MA,18+,5.5,50%
+653,654,Movie,The Peacemaker,United States,2020-01-01,1997,R,18+,5.9,39%
+654,655,Movie,The Perfect Date,United States,2019-04-12,2019,TV-14,16+,5.8,65%
+655,656,Movie,The Perks of Being a Wallflower,United States,2020-04-01,2012,PG-13,13+,8.0,86%
+656,657,Movie,The Pixar Story,United States,2018-11-18,2007,G,all,7.8,86%
+657,658,Movie,The Polar Express,United States,2021-01-01,2004,G,all,6.6,56%
+658,659,Movie,The Princess and the Frog,United States,2019-07-16,2009,G,all,7.1,85%
+659,660,Movie,The Princess Switch,United States,2018-11-16,2018,TV-G,7+,6.0,75%
+660,661,Movie,The Pursuit of Happyness,United States,2019-10-01,2006,PG-13,13+,8.0,67%
+661,662,Movie,The Rachel Divide,United States,2018-04-27,2018,TV-MA,18+,6.2,71%
+662,663,Movie,The Rainmaker,"United States, Germany",2019-11-20,1997,PG-13,13+,7.2,83%
+663,664,Movie,The Red Sea Diving Resort,Canada,2019-07-31,2019,TV-MA,18+,6.5,30%
+664,665,Movie,The Ring,United States,2020-01-01,2002,PG-13,13+,7.1,71%
+665,666,Movie,The Roommate,United States,2020-04-01,2011,PG-13,13+,4.8,4%
+666,667,Movie,The Rover,"Australia, United States",2018-07-19,2014,R,18+,6.4,66%
+667,668,Movie,The Rugrats Movie,United States,2019-10-01,1998,G,all,5.9,59%
+668,669,Movie,The Runaways,United States,2020-04-01,2010,R,18+,6.5,70%
+669,670,Movie,The Runner,United States,2017-09-08,2015,R,18+,4.7,24%
+670,671,Movie,The Sapphires,Australia,2019-04-26,2012,PG-13,13+,7.0,91%
+671,672,Movie,The Score,"Germany, Canada, United States",2019-11-28,2001,R,18+,6.8,73%
+672,673,Movie,The Secret Life of Pets 2,"United States, France, Japan",2019-12-27,2019,PG,7+,6.5,60%
+673,674,Movie,The Short Game,United States,2013-12-12,2013,PG,7+,7.4,84%
+674,675,Movie,The Signal,United States,2018-07-13,2014,PG-13,13+,6.1,61%
+675,676,Movie,The Social Network,United States,2020-04-01,2010,PG-13,13+,7.7,96%
+676,677,Movie,The Spectacular Now,United States,2018-07-15,2013,R,18+,7.1,91%
+677,678,Movie,The Spiderwick Chronicles,United States,2019-03-01,2008,PG,7+,6.5,80%
+678,679,Movie,The Squid and the Whale,United States,2019-10-01,2005,R,18+,7.3,92%
+679,680,Movie,The Stanford Prison Experiment,United States,2017-06-17,2015,R,18+,6.9,84%
+680,681,Movie,The Theory of Everything,"United Kingdom, Japan, United States",2018-12-16,2014,PG-13,13+,7.7,79%
+681,682,Movie,The Time Machine,"United States, United Arab Emirates",2019-11-23,2002,PG-13,13+,6.0,29%
+682,683,Movie,The Titan,"United Kingdom, Spain, United States, Germany",2018-03-30,2018,TV-MA,18+,4.8,16%
+683,684,Movie,The Tourist,"United States, France, Italy, United Kingdom",2020-01-07,2010,PG-13,13+,6.0,20%
+684,685,Movie,The Tribes of Palos Verdes,United States,2019-12-01,2017,R,18+,5.8,64%
+685,686,Movie,The Two Popes,"United Kingdom, Italy",2019-12-20,2019,PG-13,13+,7.6,89%
+686,687,Movie,The Unknown Known,United States,2019-02-22,2013,PG-13,13+,7.0,82%
+687,688,Movie,The Vatican Tapes,United States,2020-04-20,2015,PG-13,18+,4.9,20%
+688,689,Movie,The Wandering Earth,China,2019-05-06,2019,TV-MA,13+,6.0,75%
+689,690,Movie,The Warning,Spain,2018-07-24,2018,TV-MA,18+,5.9,56%
+690,691,Movie,The Water Diviner,"Australia, United States",2019-10-07,2014,R,18+,7.0,61%
+691,692,Movie,The Week Of,United States,2018-04-27,2018,TV-14,13+,5.1,27%
+692,693,Movie,The White Helmets,United Kingdom,2016-09-16,2016,TV-PG,16+,7.5,100%
+693,694,Movie,The Willoughbys,"Canada, United States, United Kingdom",2020-04-22,2020,PG,7+,6.4,90%
+694,695,Movie,The Witch,"United Kingdom, Canada, United States",2018-09-17,2015,R,18+,6.9,90%
+695,696,Movie,The Wolf's Call,France,2019-06-20,2019,TV-14,16+,6.9,92%
+696,697,Movie,The World Is Not Enough,"United Kingdom, United States",2019-12-31,1999,PG-13,13+,6.4,52%
+697,698,Movie,The World Is Yours,France,2018-11-30,2018,TV-MA,18+,6.4,100%
+698,699,Movie,Then Came You,United States,2019-06-01,2019,TV-14,13+,7.0,59%
+699,700,Movie,There Will Be Blood,United States,2020-03-01,2007,R,18+,8.2,91%
+700,701,Movie,Tigertail,United States,2020-04-10,2020,PG,7+,6.4,80%
+701,702,Movie,Time Share,"Mexico, Netherlands",2018-11-30,2018,TV-MA,18+,6.0,95%
+702,703,Movie,Time Trap,United States,2019-09-13,2017,TV-14,18+,6.5,60%
+703,704,Movie,Tinker Bell and the Legend of the NeverBeast,United States,2015-05-17,2014,G,all,7.3,75%
+704,705,Movie,To All the Boys: P.S. I Still Love You,United States,2020-02-12,2020,TV-14,16+,6.0,75%
+705,706,Movie,To the Bone,United States,2017-07-14,2017,TV-MA,18+,6.8,73%
+706,707,Movie,"To Wong Foo, Thanks for Everything! Julie Newmar",United States,2019-08-01,1995,PG-13,13+,6.6,41%
+707,708,Movie,Tomorrow Never Dies,"United Kingdom, United States",2019-12-31,1997,PG-13,13+,6.5,57%
+708,709,Movie,Toro,Spain,2017-04-01,2016,TV-MA,13+,5.9,80%
+709,710,Movie,Trailer Park Boys: The Movie,Canada,2018-03-30,2006,R,18+,7.2,57%
+710,711,Movie,Transcendence,"United Kingdom, China, United States",2018-11-01,2014,PG-13,13+,6.3,20%
+711,712,Movie,Trash,"United Kingdom, Brazil, Germany",2019-01-01,2014,R,18+,7.2,66%
+712,713,Movie,Tremors,United States,2020-01-01,1990,PG-13,13+,7.1,88%
+713,714,Movie,Tremors 3: Back to Perfection,United States,2020-01-01,2001,PG,7+,5.3,67%
+714,715,Movie,Trespass Against Us,United Kingdom,2019-02-22,2016,R,18+,5.8,57%
+715,716,Movie,Triple Frontier,United States,2019-03-13,2019,R,18+,6.4,72%
+716,717,Movie,Triple Threat,"Thailand, China, United States",2019-06-22,2019,R,18+,5.5,68%
+717,718,Movie,Trumbo,United States,2020-05-19,2015,R,18+,7.5,74%
+718,719,Movie,Tucker and Dale vs. Evil,"Canada, United States, India, United Kingdom",2019-03-29,2010,R,18+,7.5,85%
+719,720,Movie,Turbo,United States,2019-09-12,2013,PG,7+,6.4,67%
+720,721,Movie,Tusk,United States,2018-07-24,2014,R,18+,5.3,45%
+721,722,Movie,Udta Punjab,India,2017-01-01,2016,TV-MA,18+,7.8,91%
+722,723,Movie,Uncorked,United States,2020-03-27,2020,TV-MA,13+,6.1,93%
+723,724,Movie,Undefeated,United States,2017-08-18,2011,PG-13,13+,7.7,96%
+724,725,Movie,Under the Shadow,"United Kingdom, Jordan, Qatar, Iran",2017-01-07,2016,PG-13,13+,6.9,99%
+725,726,Movie,USS Indianapolis: Men of Courage,United States,2019-09-25,2016,R,18+,5.2,17%
+726,727,Movie,Velvet Buzzsaw,United States,2019-02-01,2019,R,18+,5.7,62%
+727,728,Movie,Veronica,Spain,2018-02-25,2017,TV-MA,18+,6.2,88%
+728,729,Movie,Viking Destiny,"United Kingdom, Belgium",2019-02-02,2018,R,18+,4.2,13%
+729,730,Movie,Vincent N Roxxy,United States,2017-09-02,2016,R,18+,5.5,41%
+730,731,Movie,Voyeur,United States,2017-12-01,2017,TV-MA,18+,6.2,77%
+731,732,Movie,W.E.,United Kingdom,2020-03-03,2011,R,18+,6.3,12%
+732,733,Movie,Wadjda,"Saudi Arabia, Netherlands, Germany, Jordan, United Arab Emirates, United States",2020-05-19,2012,PG,7+,7.5,99%
+733,734,Movie,Walking Out,United States,2019-10-01,2017,PG-13,13+,5.8,90%
+734,735,Movie,War Horse,"United States, India",2019-05-06,2011,PG-13,13+,7.2,74%
+735,736,Movie,War Machine,United States,2017-05-26,2017,TV-MA,18+,6.0,48%
+736,737,Movie,War on Everyone,United Kingdom,2019-12-03,2016,R,18+,5.8,61%
+737,738,Movie,We Are Your Friends,"United Kingdom, France, United States",2020-01-27,2015,R,18+,6.2,38%
+738,739,Movie,We the Animals,United States,2019-02-11,2018,R,18+,6.9,93%
+739,740,Movie,What a Girl Wants,"United States, United Kingdom",2020-05-01,2003,PG,7+,5.8,35%
+740,741,Movie,What Happened to Monday,"United Kingdom, France, United States, Belgium",2017-08-18,2017,TV-MA,18+,6.9,59%
+741,742,Movie,What Lies Beneath,United States,2020-01-01,2000,PG-13,13+,6.6,46%
+742,743,Movie,What's Eating Gilbert Grape,United States,2021-01-01,1993,PG-13,13+,7.8,90%
+743,744,Movie,Wheelman,United States,2017-10-20,2017,TV-MA,18+,6.4,88%
+744,745,Movie,When We First Met,United States,2018-02-09,2018,TV-14,16+,6.4,56%
+745,746,Movie,Where the Money Is,"Germany, United States, United Kingdom, Canada",2020-01-15,2000,PG-13,13+,6.2,47%
+746,747,Movie,White Fang,"France, Luxembourg, United States",2018-07-06,2018,TV-PG,7+,6.9,88%
+747,748,Movie,Wildling,United States,2020-04-01,2018,R,18+,5.5,70%
+748,749,Movie,Willy Wonka & the Chocolate Factory,"United States, East Germany, West Germany",2020-01-01,1971,G,all,7.8,91%
+749,750,Movie,Win It All,United States,2017-04-07,2017,TV-MA,18+,6.2,85%
+750,751,Movie,Wine Country,United States,2019-05-10,2019,R,18+,5.4,68%
+751,752,Movie,Wish I Was Here,United States,2018-08-16,2014,R,18+,6.7,46%
+752,753,Movie,Woody Woodpecker,United States,2018-02-06,2017,PG,7+,4.1,13%
+753,754,Movie,World Trade Center,United States,2019-11-20,2006,PG-13,13+,5.9,67%
+754,755,Movie,XOXO,United States,2016-08-26,2016,TV-MA,18+,5.3,71%
+755,756,Movie,XX,"Canada, United States",2017-06-22,2017,R,18+,4.5,70%
+756,757,Movie,Y Tu Mamá También,Mexico,2017-06-01,2001,R,18+,7.6,92%
+757,758,Movie,Yes Man,"United States, United Kingdom",2020-01-01,2008,PG-13,13+,6.8,46%
+758,759,Movie,Young Adult,United States,2019-11-20,2011,R,18+,6.2,80%
+759,760,Movie,Yucatán,Spain,2019-02-15,2018,TV-MA,7+,5.4,60%
+760,761,Movie,Zack and Miri Make a Porno,United States,2018-10-01,2008,R,18+,6.5,65%
+761,762,Movie,Zindagi Na Milegi Dobara,India,2019-12-15,2011,TV-14,7+,8.1,91%
+762,763,Movie,Zoom,United States,2020-01-11,2006,PG,7+,4.4,3%
+763,764,TV Show,1983,"Poland, United States",2018-11-30,2018,TV-MA,18+,6.8,100%
+764,765,TV Show,Alias Grace,Canada,2017-11-03,2017,TV-MA,18+,7.8,99%
+765,766,TV Show,All About the Washingtons,United States,2018-08-10,2018,TV-PG,all,4.2,40%
+766,767,TV Show,American Odyssey,United States,2016-04-05,2015,TV-14,16+,7.3,54%
+767,768,TV Show,Another Life,United States,2019-07-25,2019,TV-MA,18+,4.9,6%
+768,769,TV Show,Attack on Titan,Japan,2019-02-24,2013,TV-MA,16+,8.8,94%
+769,770,TV Show,B: The Beginning,Japan,2018-03-02,2018,TV-MA,18+,7.2,50%
+770,771,TV Show,Battle Creek,United States,2015-12-31,2015,TV-14,16+,7.3,96%
+771,772,TV Show,Behind Enemy Lines,United States,2016-08-15,2001,TV-14,13+,6.4,37%
+772,773,TV Show,Black Earth Rising,United Kingdom,2019-01-25,2018,TV-MA,16+,7.4,79%
+773,774,TV Show,Black Summer,"Canada, United States",2019-04-11,2019,TV-MA,18+,6.4,75%
+774,775,TV Show,"Breakfast, Lunch & Dinner",United States,2019-10-23,2019,TV-MA,18+,6.7,80%
+775,776,TV Show,Brews Brothers,United States,2020-04-10,2020,TV-MA,18+,4.8,38%
+776,777,TV Show,Chambers,United States,2019-04-26,2019,TV-MA,18+,6.5,41%
+777,778,TV Show,Champions,United States,2019-03-08,2018,TV-14,7+,6.0,63%
+778,779,TV Show,Cheer,United States,2020-01-08,2020,TV-MA,16+,8.2,96%
+779,780,TV Show,Chelsea Does,United States,2016-01-23,2016,TV-MA,18+,7.2,79%
+780,781,TV Show,Collateral,"United Kingdom, United States",2018-03-09,2018,TV-MA,7+,6.7,78%
+781,782,TV Show,Containment,United States,2016-10-21,2016,TV-MA,16+,7.2,50%
+782,783,TV Show,Damnation,United States,2018-11-07,2017,TV-MA,18+,7.7,64%
+783,784,TV Show,Dark Tourist,New Zealand,2018-07-20,2018,TV-MA,18+,7.6,70%
+784,785,TV Show,Daybreak,United States,2019-10-24,2019,TV-MA,18+,6.7,70%
+785,786,TV Show,Dead Set,United Kingdom,2016-09-01,2008,TV-MA,18+,7.7,90%
+786,787,TV Show,Diagnosis,United States,2019-08-16,2019,TV-14,18+,7.8,100%
+787,788,TV Show,Dirty John,United States,2019-11-25,2018,TV-MA,16+,7.1,71%
+788,789,TV Show,Dogs,United States,2018-11-16,2018,TV-PG,all,8.1,92%
+789,790,TV Show,Don't F**k with Cats: Hunting an Internet Killer,"United Kingdom, United States",2019-12-18,2019,TV-MA,18+,8.1,67%
+790,791,TV Show,Dracula,United Kingdom,2020-01-04,2020,TV-14,18+,6.8,74%
+791,792,TV Show,Everything Sucks!,United States,2018-02-16,2018,TV-14,16+,7.5,72%
+792,793,TV Show,Evil Genius,United States,2018-05-11,2018,TV-MA,18+,7.6,80%
+793,794,TV Show,Five Came Back,United States,2017-03-31,2017,TV-MA,16+,8.3,97%
+794,795,TV Show,Flint Town,United States,2018-03-02,2018,TV-MA,18+,8.0,95%
+795,796,TV Show,Frequency,United States,2017-09-04,2016,TV-14,7+,7.5,77%
+796,797,TV Show,Freud,"Austria, Germany",2020-03-23,2020,TV-MA,18+,6.6,50%
+797,798,TV Show,Gentefied,United States,2020-02-21,2020,TV-MA,16+,7.3,88%
+798,799,TV Show,GHOUL,India,2018-08-24,2018,TV-MA,18+,7.1,83%
+799,800,TV Show,Girlboss,United States,2017-04-21,2017,TV-MA,18+,7.0,36%
+800,801,TV Show,Godless,United States,2017-11-22,2017,TV-MA,16+,8.3,85%
+801,802,TV Show,Great News,United States,2018-10-25,2017,TV-14,7+,7.0,84%
+802,803,TV Show,Gypsy,"United States, United Kingdom",2017-06-30,2017,TV-MA,18+,6.9,38%
+803,804,TV Show,Hollywood,United States,2020-05-01,2020,TV-MA,18+,7.7,57%
+804,805,TV Show,Hot Girls Wanted: Turned On,United States,2017-04-21,2017,TV-MA,18+,6.7,100%
+805,806,TV Show,How to Fix a Drug Scandal,United States,2020-04-01,2020,TV-MA,18+,6.9,86%
+806,807,TV Show,Huge in France,United States,2019-04-12,2019,TV-MA,16+,6.8,50%
+807,808,TV Show,Hyperdrive,United States,2019-08-21,2019,TV-PG,7+,8.1,100%
+808,809,TV Show,I Think You Should Leave with Tim Robinson,United States,2019-04-23,2019,TV-MA,18+,7.4,93%
+809,810,TV Show,Imposters,United States,2019-04-05,2017,TV-MA,16+,7.8,100%
+810,811,TV Show,Inside Bill's Brain: Decoding Bill Gates,United States,2019-09-20,2019,TV-14,16+,8.0,50%
+811,812,TV Show,Into the Night,Belgium,2020-05-01,2020,TV-MA,18+,7.2,83%
+812,813,TV Show,It's Bruno!,United States,2019-05-17,2019,TV-MA,7+,7.5,100%
+813,814,TV Show,Jonathan Strange & Mr Norrell,United Kingdom,2016-08-25,2015,TV-14,16+,8.2,91%
+814,815,TV Show,Kantaro: The Sweet Tooth Salaryman,Japan,2017-12-01,2017,TV-PG,7+,7.6,100%
+815,816,TV Show,Killer Inside: The Mind of Aaron Hernandez,United States,2020-01-15,2020,TV-MA,18+,7.4,75%
+816,817,TV Show,Kiss Me First,"United Kingdom, United States",2018-06-29,2018,TV-MA,18+,6.3,50%
+817,818,TV Show,Life Sentence,United States,2018-06-23,2018,TV-14,16+,6.5,37%
+818,819,TV Show,Living with Yourself,United States,2019-10-18,2019,TV-MA,18+,7.2,84%
+819,820,TV Show,Locke & Key,"Canada, United States",2020-02-07,2020,TV-14,16+,7.4,67%
+820,821,TV Show,London Spy,United Kingdom,2017-03-31,2015,TV-MA,18+,7.5,86%
+821,822,TV Show,"Love, Death & Robots",United States,2019-03-15,2019,TV-MA,18+,8.5,78%
+822,823,Movie,Manhunt,"China, Hong Kong",2018-05-04,2017,TV-MA,16+,8.1,93%
+823,824,TV Show,Maniac,United States,2018-09-21,2018,TV-MA,16+,7.8,85%
+824,825,TV Show,Marianne,France,2019-09-13,2019,TV-MA,18+,7.5,93%
+825,826,TV Show,Marvel's The Defenders,United States,2017-08-18,2017,TV-MA,18+,7.3,78%
+826,827,TV Show,Messiah,United States,2020-01-01,2020,TV-MA,18+,7.7,44%
+827,828,TV Show,Middleditch & Schwartz,United States,2020-04-21,2020,TV-MA,18+,8.7,100%
+828,829,TV Show,Neon Genesis Evangelion,Japan,2019-06-21,1995,TV-MA,16+,8.5,100%
+829,830,TV Show,Never Have I Ever,United States,2020-04-27,2020,TV-14,16+,8.0,97%
+830,831,TV Show,Nightflyers,United States,2019-12-02,2018,TV-MA,16+,5.9,35%
+831,832,TV Show,No Good Nick,United States,2019-08-05,2019,TV-PG,7+,5.8,60%
+832,833,TV Show,No Tomorrow,United States,2017-09-05,2016,TV-PG,7+,7.2,88%
+833,834,TV Show,November 13: Attack on Paris,France,2018-06-01,2018,TV-MA,18+,8.3,100%
+834,835,TV Show,October Faction,United States,2020-01-23,2020,TV-MA,18+,6.1,33%
+835,836,TV Show,One-Punch Man,Japan,2017-03-20,2015,TV-14,16+,8.8,100%
+836,837,TV Show,Our Planet,"United States, United Kingdom",2019-04-05,2019,TV-PG,7+,9.3,93%
+837,838,TV Show,Outer Banks,United States,2020-04-15,2020,TV-MA,18+,7.6,72%
+838,839,TV Show,Pacific Heat,Australia,2016-12-02,2016,TV-14,16+,5.7,17%
+839,840,TV Show,Prank Encounters,United States,2019-10-25,2019,TV-MA,18+,5.0,40%
+840,841,TV Show,Queen Sono,South Africa,2020-02-28,2020,TV-MA,18+,5.8,100%
+841,842,TV Show,Raising Dion,United States,2019-10-04,2019,TV-PG,7+,7.2,82%
+842,843,TV Show,Rapture,United States,2018-03-30,2018,TV-MA,18+,7.1,83%
+843,844,TV Show,Rebellion,Ireland,2020-06-27,2016,TV-MA,16+,7.1,40%
+844,845,TV Show,Requiem,United Kingdom,2018-03-23,2018,TV-MA,18+,6.5,75%
+845,846,TV Show,Rhythm + Flow,United States,2019-10-09,2019,TV-MA,18+,7.6,92%
+846,847,TV Show,Rilakkuma and Kaoru,"Japan, United States",2019-04-19,2019,TV-PG,7+,8.4,100%
+847,848,TV Show,Russian Doll,United States,2019-02-01,2019,TV-MA,18+,7.9,96%
+848,849,TV Show,Safe,United Kingdom,2019-02-05,2018,TV-MA,18+,7.3,77%
+849,850,TV Show,Secret City,Australia,2019-03-06,2016,TV-MA,16+,7.4,100%
+850,851,TV Show,Seis Manos,United States,2019-10-03,2019,TV-MA,18+,7.3,100%
+851,852,TV Show,Selection Day,India,2018-12-28,2018,TV-14,16+,7.3,33%
+852,853,TV Show,Self Made: Inspired by the Life of Madam C.J. Walker,United States,2020-03-20,2020,TV-MA,16+,7.4,77%
+853,854,TV Show,Seven Seconds,United States,2018-02-23,2018,TV-MA,18+,7.7,77%
+854,855,TV Show,Sid the Science Kid,United States,2020-03-31,2008,TV-Y,all,5.4,80%
+855,856,TV Show,Soul Eater,Japan,2020-01-16,2008,TV-14,16+,7.8,100%
+856,857,TV Show,Special,United States,2019-04-12,2019,TV-MA,18+,7.6,95%
+857,858,TV Show,Spinning Out,United States,2020-01-01,2020,TV-MA,18+,7.7,63%
+858,859,TV Show,Star-Crossed,United States,2015-04-16,2014,TV-14,16+,7.3,57%
+859,860,TV Show,Surviving R. Kelly,United States,2019-09-15,2019,TV-MA,18+,7.6,95%
+860,861,TV Show,The Break with Michelle Wolf,United States,2018-05-27,2018,TV-MA,18+,5.2,81%
+861,862,TV Show,The Chalet,France,2018-04-17,2018,TV-MA,18+,7.0,100%
+862,863,TV Show,The Circle,"United States, United Kingdom",2020-01-01,2020,TV-MA,18+,7.5,80%
+863,864,TV Show,The Comedy Lineup,United States,2018-08-31,2018,TV-MA,18+,5.7,100%
+864,865,TV Show,The Confession Killer,United States,2019-12-06,2019,TV-14,16+,7.4,100%
+865,866,TV Show,The Curious Creations of Christine McConnell,United States,2018-10-12,2018,TV-PG,7+,7.7,100%
+866,867,TV Show,The Dark Crystal: Age of Resistance,"United Kingdom, United States",2019-08-30,2019,TV-PG,7+,8.5,87%
+867,868,TV Show,The Devil Next Door,United States,2019-11-04,2019,TV-MA,18+,7.6,91%
+868,869,TV Show,The Eddy,"United Kingdom, Germany, United States, France",2020-05-08,2020,TV-MA,18+,7.0,68%
+869,870,TV Show,The Final Table,United States,2018-11-20,2018,TV-PG,all,7.7,50%
+870,871,TV Show,The Good Cop,United States,2018-09-21,2018,TV-14,16+,7.0,50%
+871,872,TV Show,The Honeymoon Stand Up Special,United States,2018-04-17,2018,TV-MA,16+,6.8,100%
+872,873,TV Show,The I-Land,United States,2019-09-12,2019,TV-MA,18+,4.5,8%
+873,874,TV Show,The Innocent Man,United States,2018-12-14,2018,TV-MA,18+,7.4,73%
+874,875,TV Show,The Joel McHale Show with Joel McHale,United States,2018-07-15,2018,TV-MA,18+,7.3,83%
+875,876,TV Show,The Keepers,United States,2017-05-19,2017,TV-MA,16+,8.1,96%
+876,877,TV Show,The Letter for the King,United Kingdom,2020-03-20,2020,TV-PG,7+,5.9,58%
+877,878,TV Show,The Messengers,United States,2016-04-17,2015,TV-14,16+,6.5,47%
+878,879,TV Show,The Midnight Gospel,United States,2020-04-20,2020,TV-MA,18+,8.4,90%
+879,880,TV Show,The Mist,"Canada, United States",2017-10-24,2017,TV-MA,18+,5.4,62%
+880,881,TV Show,The Society,United States,2019-05-10,2019,TV-MA,18+,7.0,85%
+881,882,TV Show,The Spy,France,2019-09-06,2019,TV-MA,18+,7.9,86%
+882,883,TV Show,The Trials of Gabriel Fernandez,United States,2020-02-26,2020,TV-MA,18+,8.2,80%
+883,884,TV Show,The Witcher,"United States, Poland",2019-12-20,2019,TV-MA,18+,8.3,67%
+884,885,TV Show,Tidying Up with Marie Kondo,United States,2019-01-01,2019,TV-PG,7+,6.6,79%
+885,886,TV Show,"Tiger King: Murder, Mayhem and Madness",United States,2020-03-20,2020,TV-MA,18+,7.8,86%
+886,887,TV Show,Time: The Kalief Browder Story,United States,2019-04-07,2017,TV-MA,16+,8.5,100%
+887,888,TV Show,Traitors,United Kingdom,2019-03-29,2019,TV-MA,18+,6.6,67%
+888,889,TV Show,Tuca & Bertie,United States,2019-05-03,2019,TV-MA,16+,7.4,100%
+889,890,TV Show,Twin Peaks,United States,2017-07-01,1990,TV-14,18+,8.8,89%
+890,891,TV Show,Typewriter,India,2019-07-19,2019,TV-MA,18+,6.5,60%
+891,892,TV Show,Unbelievable,United States,2019-09-13,2019,TV-MA,18+,8.4,97%
+892,893,TV Show,Unorthodox,Germany,2020-03-26,2020,TV-MA,18+,8.1,94%
+893,894,TV Show,W/ Bob & David,United States,2015-11-13,2015,TV-MA,18+,7.4,89%
+894,895,TV Show,Wanderlust,United Kingdom,2018-10-19,2018,TV-MA,16+,7.0,73%
+895,896,TV Show,Watership Down,"United Kingdom, Ireland, United States",2018-12-23,2018,TV-PG,7+,7.2,77%
+896,897,TV Show,Westside,United States,2018-11-09,2018,TV-MA,16+,5.8,20%
+897,898,TV Show,When They See Us,United States,2019-05-31,2019,TV-MA,18+,8.9,96%
+898,899,TV Show,White Lines,"United Kingdom, Spain",2020-05-15,2020,TV-MA,18+,6.2,58%
+899,900,TV Show,Wild Wild Country,United States,2018-03-16,2018,TV-MA,16+,8.2,98%
+900,901,TV Show,Wormwood,United States,2017-12-15,2017,TV-14,16+,7.0,92%
+901,902,TV Show,Wu Assassins,United States,2019-08-08,2019,TV-MA,18+,6.4,83%
