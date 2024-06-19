@@ -26,7 +26,7 @@ Transformations were planned using an Excel file (ETL_Netflix_Major.xlsx) to com
 
 ## Load
 
-Two dataframes were created in pandas to merge data from Source 3 to Sources 1 and 2. These dataframes were then appended to the same table in PostgreSQL. A schema file (sql_quiries.sql) to set up the database and the 'final' table is provided.
+Two dataframes were created in pandas to merge data from Source 3 to Sources 1 and 2. These dataframes were then appended to the same table in PostgreSQL. A schema file (sql_queries.sql) to set up the database and the 'final' table is provided.
 
 The psycopg2 module was used to connect to the database and append the dataframes to the 'final' table. An audit report was generated to track the duration of each ETL phase and the number of dropped titles. The final table was also saved as a CSV file in the Output folder.
 
