@@ -6,7 +6,7 @@ This ETL project integrates multiple Netflix data sources from Kaggle into a sin
 
 ## Extract
 
-The data sources consist of CSV files obtained from Kaggle.com, containing information about movies and TV shows available on popular streaming services. The CSV files were manually downloaded and stored in the Resources folder of the repository.
+The data sources consist of CSV files obtained from Kaggle.com, containing information about movies and TV shows available on popular streaming services. The CSV files were manually downloaded and stored in the Data Branch folder of the repository.
 
 ### Data Sources:
 | Source No. | Link with Description | Source Last Updated | Download Date | File name in Resources folder |
