@@ -1,0 +1,4 @@
+ETL Audit Report
+-----------------
+domain  row_counts extraction_time transform_time    load_time
+ final         902    0.95 seconds   1.56 seconds 2.83 seconds
